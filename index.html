@@ -1,0 +1,161 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="COVID-19 Dashboard" />
+  <meta property="og:description" content="Information about COVID-19 and everything you should know about it." />
+  <meta property="og:image" content="" />
+  <title>COVID-19 Dashboard </title>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/jquery.ui.touch-punch.min.js"></script>
+  <!-- <script src="js/bootstrap.min.js"></script> -->
+  <!-- <script src="js/lodash.min.js"></script> -->
+  <!-- <script src="js/cookie.js"></script> -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/js-cookie@beta/dist/js.cookie.min.js"></script> -->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/simplebar/5.0.4/simplebar.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="css/simplebar.css" /> -->
+  
+  <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+  <script src="js/colorbrewer.min.x.js"></script>
+	<script src="scr/mathfunctions.js"></script>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/gridstack@1.1.1/dist/gridstack.all.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script> 
+  <!-- <script src="js/d3-interpolate-path.js"></script> -->
+  <!-- <script src="js/d3-line-chunked.js"></script> -->
+  <script src="js/colorbrewer.min.x.js"></script>
+  <script src="js/geojson.min.js"></script>
+  <script src="js/intro.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+  
+  <!-- <script src="js/d3-legend.min.js"></script> -->
+  <!-- <script src="js/leaflet.js"></script> -->
+  <!-- <script src="js/esri-leaflet.js"></script> -->
+  <!-- <script src="js/heatmap.min.js"></script> -->
+  <!-- <script src="js/leaflet-heatmap.js"></script> -->
+  <script src="https://d3js.org/topojson.v3.min.js"></script>
+
+  <!-- <script src="https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js"></script> -->
+  <!-- <script src="https://cdn.rawgit.com/eligrey/canvas-toBlob.js/f1a01896135ab378aa5c0118eadd81da55e698d8/canvas-toBlob.js"></script> -->
+  <!-- <script src="https://cdn.rawgit.com/eligrey/FileSaver.js/e9d941381475b5df8b7d7691013401e171014e89/FileSaver.min.js"></script> -->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.js"></script> -->
+  <!-- <script src="https://kit.fontawesome.com/88fc83302a.js"></script> -->
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.css" /> -->
+  <!-- <link href="css/leaflet.css" rel="stylesheet" /> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gridstack@1.1.1/dist/gridstack.min.css" />
+  <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" -->
+    <!-- integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous"> -->
+  <link rel="stylesheet" href="scr/main.css">
+  <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+  <!-- <link rel="stylesheet" href="css/introjs.min.css"> -->
+</head>
+
+<body>
+    
+    <div class="mynav">
+        <div class="containerdd" onclick="hamburger(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+            <div id="myDropdown" class="dropdown-content">
+                <!-- <a onclick="settings.style.display = 'block';">Settings</a> -->
+                <a onclick="about.style.display = 'block';">About</a>
+                <!-- <a href="#contact">Contact</a> -->
+            </div>
+        </div>
+        <a>COVID-19 Dashboard</a>
+    </div>
+
+    <!-- Settings -->
+    <div id="settings" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <p>Sync: choices</p>
+          <p>Dark mode</p>
+          <p>Projections: some choices</p>
+          <p>Cases: more choices</p>
+          <p>Type: Raw, rate, or difference</p>
+        </div>
+    </div>
+    
+    <!-- ABOUT -->
+    <div id="about" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+          <span class="close">&times;</span>
+              <h2>Welcome to the COVID-19 Dashboard!</h2>
+              <p>
+
+    This dashboard visualizes the spatio-temporal pattern of COVID-19 pandemic evolution for each day. The confirmed COVID-19 case statistics are shown as red proportional symbols in three scales: each country in the world (left), each state in the United States (middle), and each county in a selected state (right). Each map also has a choropleth color basemap that shows a selected relevant social-economic indicator. The line chart beneath each map demonstrates the temporal change of the confirmed case with interactivity with the proportional symbols. The scatter plot on the bottom-left corner represents county-level interrelationship between total confirmed cases and a selected socio-economic variable.
+
+</p>
+
+<p>
+    Data source: The world map is based on the 1:110M administrative data from the <a href="https://www.naturalearthdata.com/downloads/110m-cultural-vectors/">Natural Earth</a>. Maps for the United States are based on the Census Bureau's 2018 <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html">Cartographic Boundary Files Shapefile</a> at 1:20M scale.
+    The country-level and US state-level COVID-19 confirmed case data come from the <a href="https://nssac.bii.virginia.edu/covid-19/dashboard/">UVA COVID-19 dashboard</a> and the <a href="https://github.com/CSSEGISandData/COVID-19">JHU COVID-19 dashboard GitHub</a>.  The county-level COVID-19 data comes from the <a href="https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/"> USAFacts COVID-19 map</a>. The Covid-19 datasets updated daily. State and county social-economic indicators are collected from American Community Survey 5-year data (2014 -2018).
+</p>
+
+<p>
+    Development Team: Luyu Liu, Yue Lin, Armita Kar, and Ningchuan Xiao.
+</p>
+
+<p>
+
+    Open-source code access and license: https://github.com/luyuliu/COVID19-Dashboard under the MIT license.
+          
+          </p>
+        </div>
+    </div>
+    
+    <script>
+    var settings = document.getElementById("settings"); // Get the modal    
+    var about = document.getElementById("about"); // Get the modal    
+    var spans = document.getElementsByClassName("close"); // Get the <span> element that closes the modal
+
+    // When the user clicks on <span> (x), close the modal
+    Array.from(spans).forEach(function(d) {
+        d.onclick = function() {
+            this.parentNode.parentNode.style.display = "none";
+        }
+    })
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+      if (event.target == settings)
+        settings.style.display = "none";
+    if (event.target == about)
+      about.style.display = "none";
+    }
+    </script>
+
+  
+    <script>
+
+    function hamburger(x) {
+        x.classList.toggle("change");
+        document.getElementById("myDropdown").classList.toggle("hide");
+    }
+    </script>
+
+
+  <div id="grid-container" class="grid-stack"></div>
+
+  <script src="scr/start.js"></script>
+  <!-- <script src="scr/worldmap_oop.js"></script> -->
+  <script src="scr/worldmap.js"></script>
+  <script src="scr/USmap.js"></script>
+  <script src="scr/state-map.js"></script>
+  <script src="scr/scatterplot.js"></script>
+  <script src="scr/main.js"></script>
+</body>
+
+</html>
