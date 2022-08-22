@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Armita Kar"
 title_separator          : "-"
 name                     : &name "Armita Kar"
-description              : &description "PhD Candidate"
+description              : &description "PhD Candidate, Transportation Geography and Spatial Analytics"
 url                      : https://armitakar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "armitakar/armitakar.github.io"
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  name             : "Armita Kar"
+  avatar           : "Armita Kar.JPG"
+  bio              : "PhD Candidate, Transportation Geography and Spatial Analytics"
+  location         : "Columbus, OH"
+  employer         : "Center of Urban and Regional Anlysis, Geography, The OSU"
   googlescholar    : "https://scholar.google.com/citations?user=1SMLap0AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "kar.34@osu.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Armita-Kar"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/armita-kar-36854612b/"
   orcid            : "https://orcid.org/0000-0003-3951-9654"
   pinterest        :
   soundcloud       :
