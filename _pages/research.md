@@ -4,11 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<b>PhD in Geography. </b> July 2023 (Expected)
-<br>The Ohio State University, OH, United States
-
-Dissertation: <i>Inclusive Accessibility: Integrating person-based hard and soft constraints into transportation planning.</i>
-Advisor: Harvey J. Miller and Huyen TK Le
 
 <b>Graduate Research Assistant.</b> (August 2022 - )
 <br>Center for Urban and Regional Analysis, The Ohio State University, OH, United States
