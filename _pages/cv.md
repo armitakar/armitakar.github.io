@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+A detailed  version of the CV is available [here](/files/CV_Armita_Kar.pdf).
 
 Education
 ======
