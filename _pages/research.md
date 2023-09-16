@@ -4,8 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<b>Post Doctoral Research Scientist.</b> (August 2023 - )
+<br>Center for Injury Research and Policy, Abigail Wexner Research Institute at Nationwide Children’s Hospital (AWRINCH), OH, United States
 
-<b>Graduate Research Assistant.</b> (August 2022 - )
+Project title: <i>Intervention to improve driving practices among high-risk teen drivers</i>
+<br>Supervisor/PI: Ginger Yang
+<br>Funded by: National Institutes of Health (NIH) - The Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+
+<b>Graduate Research Assistant.</b> (August 2022 - August 2023)
 <br>Center for Urban and Regional Analysis, The Ohio State University, OH, United States
 
 Project title: <i>Built environment influences reckless driving behavior</i>

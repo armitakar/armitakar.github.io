@@ -12,7 +12,7 @@ A detailed  version of the CV is available [here](/files/CV_Armita_Kar.pdf).
 
 Education
 ======
-* <b>Ph.D in Geography</b>, The Ohio State University, 2023 (expected)
+* <b>Ph.D in Geography</b>, The Ohio State University, 2023
 <br>Dissertation: <i>Inclusive Accessibility: Integrating person-based hard and soft constraints into transportation planning.</i>
 <br>Advisor: Harvey J. Miller and Huyen TK Le
 
@@ -34,7 +34,8 @@ Publications
 
 Research experience
 ======
-* <b>Graduate Research Assistant.</b> (August 2022 - ). Center for Urban and Regional Analysis, The Ohio State University, OH.
+* <b>Post Doctoral Research Scientist.</b> (August 2023 - ). Center for Injury Research and Policy, Abigail Wexner Research Institute at Nationwide Children’s Hospital (AWRINCH), OH.
+* <b>Graduate Research Assistant.</b> (August 2022 - August 2023). Center for Urban and Regional Analysis, The Ohio State University, OH.
 * <b>Graduate Research Assistant.</b>	(May 2021 – August 2022). Department of Geography, The Ohio State University, OH.
 * <b>GIS Research Assistant.</b>	(May 2018 – July 2018). The DIGIT Lab, University of Utah, UT.
 
