@@ -14,4 +14,4 @@ I am a transit and ped-bike enthusiast and work actively in promoting a sustaina
 
 I have expertise in GIScience, data science and space-time modeling in addressing complex social science problems. My research uses machine learning algorithms (e.g., random forest, support vector machine, logistic regression, neural networks, and few-shot learning techniques), statistical models (e.g., bayesian model, multilevel model, hurdle model, and GLMs), spatial and space-time analytics (e.g., spatially weighted interaction models, space-time regression kriging, space-time accessibility) and network analytics and optimization algorithms.
 
-<img src="(/images/site-logo.png)">
+<img src="/images/site-logo.png">
