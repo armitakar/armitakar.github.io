@@ -24,5 +24,3 @@ researchers and practitioners plan for resilient and economically vibrant transp
 future shocks.
 
 [Download paper here](/files/Annals_essential_travel.pdf)
-
-<img src="/images/site-logo.png">
