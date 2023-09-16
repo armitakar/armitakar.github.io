@@ -25,4 +25,4 @@ future shocks.
 
 [Download paper here](/files/Annals_essential_travel.pdf)
 
-<img src="/images/KarFigure7.tif">
+<img src="/images/site-logo.png">
