@@ -14,7 +14,7 @@ redirect_from:
 
 <p align="center"> <img src="/images/walking impedance.png"> </p>
 <p align="center"> <img src="/images/Inclusive access.png"> </p>
-<p align="center"> The figure illustrates geographic variations in walking perceptions between high-income white men and low-income women of color, along with its influence on the inclusive access measure for these respective social groups. </p>
+<p font size = "10" align="center"><i> The figure illustrates geographic variations in walking perceptions between high-income white men and low-income women of color, along with its influence on the inclusive access measure for these respective social groups. </i></p>
 
 <p align="justify"> In addition, most of my research fall under the umbrella of social equity. I explore the socio-economic differences and its underlying inequalities in travel patterns and food and healthcare access. Besides, investigating community resilience during disruptions is another significant contribution of my research. I conduct research on how marginalized communities were disproportionally affected during COVID-19 and other climatic events. </p>
 
