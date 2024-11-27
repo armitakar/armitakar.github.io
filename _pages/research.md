@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<b>Post Doctoral Research Scientist.</b> (August 2023 - )
+<b>Post Doctoral Research Scientist.</b> (August 2023 - July 2024)
 <br>Center for Injury Research and Policy, Abigail Wexner Research Institute at Nationwide Children’s Hospital (AWRINCH), OH, United States
 
 Project title: <i>Intervention to improve driving practices among high-risk teen drivers</i>
