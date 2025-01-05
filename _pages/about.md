@@ -29,5 +29,5 @@ redirect_from:
 
 <p font = 20><b>Recent updates</b></p>
 <b>Jan 05, 2025</b>
-- Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i> 
-Looking forward to insightful discussions!
+<p align="justify">Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i> 
+Looking forward to insightful discussions! </p>
