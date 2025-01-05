@@ -10,3 +10,5 @@ location: "Fairfax, VA, United States"
 
 Fall 2024
 <br>Introduction to Geoinformation Technologies (GGS 110)<br>
+Spring 2025
+<br>Spatial Computing (GGS 366)<br>
