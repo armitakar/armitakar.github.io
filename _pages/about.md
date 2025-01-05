@@ -28,6 +28,7 @@ redirect_from:
 <p align="justify"> My work has been published in several high-impact, peer-reviewed journals, including <i>Annals of the American Association of Geographers (AAG), Computers, Environment and Urban Systems, Transportation Research Part D, Applied Geography, Journal of Transport Geography, Transportation Research Record (TRR), Risk Analysis,</i> and <i>Atmospheric Environment</i>. I received several awards for my work, including <i>the Postdoc Idea Award from the NCH Abigail Wexner Research Institute, the E. Willard and Ruby S. Miller Scholarship from The Ohio State University, the Student Dissertation Award from the Sustainability Institute at The Ohio State University,</i> and <i>the Prime Minister Gold Medal from the University Grants Commission of Bangladesh</i>.</p>
 
 <p font = 20><b>Recent updates</b></p>
+
 <b>Jan 05, 2025</b>
-<p align="justify">Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i> 
-Looking forward to insightful discussions! </p>
+<p align="justify">Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i>.</p>
+<p align="justify">Looking forward to insightful discussions! </p>
