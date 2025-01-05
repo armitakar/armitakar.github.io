@@ -4,6 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<b>Doctoral Dissertation: Inclusive Accessibility</b>
+My doctoral dissertation focuses on pioneering a novel concept and measure known as inclusive accessibility. This approach integrates people’s diverse travel choices and experiences into advancing space-time accessibility models. I posit this measure as a more realistic and socially aware representation of accessibility, as it distinguishes between the geographic spaces that are physically and perceptually accessible to individuals and social groups. My PhD dissertation also demonstrates application of inclusive accessibility approach in tailoring transportation infrastructure interventions specific to marginalized communities.
+
+<p align="center"> <img src="/images/walking impedance.png" style = "border:0"> </p>
+<p align="center"> <img src="/images/Inclusive access.png" style = "border:0"> </p>
+<p font size = "8" align="center"><i> The figure illustrates geographic variations in walking perceptions between high-income white men and low-income women of color, along with its influence on the inclusive access measure for these respective social groups. </i></p>
+
+
 <b>Post Doctoral Research Scientist.</b> (August 2023 - July 2024)
 <br>Center for Injury Research and Policy, Abigail Wexner Research Institute at Nationwide Children’s Hospital (AWRINCH), OH, United States
 
