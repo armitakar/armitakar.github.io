@@ -33,6 +33,6 @@ redirect_from:
 <summary><b>Jan 05, 2025</b></summary>
 <p align="justify">Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i>.</p>
 <p align="justify">Here's a quick peek at my poster. Looking forward to insightful discussions! </p>
-[![TRB poster 2025](/images/TRB_poster_2025.jpg)]{data-zoomable} 
+[![TRB poster 2025](/images/TRB_poster_2025.jpg)]{ data-zoomable } 
 
 </details>
