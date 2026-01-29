@@ -37,7 +37,7 @@ redirect_from:
 <p>- Crime Around Public Transit: Analyzing Spatio-Temporal Variations in Crime Rates Near D.C. Bus Stops (Monisha Preetham).</p>
 <p align="center"> <img src="/images/ASSIP2025_1.jpeg" style = "border:0"> </p> 
 <p align="center"> <img src="/images/ASSIP2025_2.jpeg" style = "border:0"> </p> 
-</details>
+
 
 <details>
 <summary><b>June 25, 2025</b></summary>
