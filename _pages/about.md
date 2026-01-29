@@ -30,6 +30,14 @@ redirect_from:
 <h1 style="font-size: 20;">Recent updates</h1>
 <details>
 <summary><b>August 07, 2025</b></summary>
+<p align="justify">This summer, I had the opportunity to mentor 5 high-school and one undergraduate student through the GMU Aspiring Scientists Summer Internship Program (ASSIP). Just within six weeks, these students successfully completed the following projects, including data collection, processing, modeling, and preparing the final presentation for each:
+<p>- Healthcare Deserts in Virginia: Rural-Urban and Socioeconomic Disparities in Access to Care (Sarah Zak and Stepan Mkrtchian) </p>
+<p>- How Do Women Access Maternal Care? Spatial and Social Dimensions of Maternal Healthcare Visits in Florida (Ava Hudson and Justin Yu) </p>
+<p>- Developing a Fairfax Topographic Accessibility Map (Kevin Hasani) </p>
+<p>- Crime Around Public Transit: Analyzing Spatio-Temporal Variations in Crime Rates Near D.C. Bus Stops (Monisha Preetham).</p>
+<p align="center"> <img src="/images/ASSIP2025_1.jpeg" style = "border:0"> </p> 
+<p align="center"> <img src="/images/ASSIP2025_2.jpeg" style = "border:0"> </p> 
+
 </details>
 
 <details>
