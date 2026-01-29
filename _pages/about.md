@@ -30,6 +30,12 @@ redirect_from:
 <h1 style="font-size: 20;">Recent updates</h1>
 
 <details>
+<summary><b>Mar 24, 2025</b></summary>
+<p align="justify">Co-Organizing a session with Dr. Luyu Liu, Jinhyung Lee, and Huyen Le on <b>"Transportation and Environmental Exposure"</b>b> at the American Association of Geographers 2025 </i>.</p>
+
+</details>
+
+<details>
 <summary><b>Jan 05, 2025</b></summary>
 <p align="justify">Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i>.</p>
 <p align="justify">Here's a quick peek at my poster. Looking forward to insightful discussions! </p>
