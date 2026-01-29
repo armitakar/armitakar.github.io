@@ -32,10 +32,10 @@ redirect_from:
 <summary><b>August 07, 2025</b></summary>
 <p align="justify">This summer, I had the opportunity to mentor 5 high-school and one undergraduate student through the GMU Aspiring Scientists Summer Internship Program (ASSIP). Just within six weeks, these students successfully completed the following projects, including data collection, processing, modeling, and preparing the final presentation for each:
 
-- Healthcare Deserts in Virginia: Rural-Urban and Socioeconomic Disparities in Access to Care (Sarah Zak and Stepan Mkrtchian )
-- How Do Women Access Maternal Care? Spatial and Social Dimensions of Maternal Healthcare Visits in Florida (Ava Hudson and Justin Yu)
-- Developing a Fairfax Topographic Accessibility Map (Kevin Hasani)
-- Crime Around Public Transit: Analyzing Spatio-Temporal Variations in Crime Rates Near D.C. Bus Stops (Monisha Preetham) </i>.</p>
+<p>- Healthcare Deserts in Virginia: Rural-Urban and Socioeconomic Disparities in Access to Care (Sarah Zak and Stepan Mkrtchian) </p>
+<p>- How Do Women Access Maternal Care? Spatial and Social Dimensions of Maternal Healthcare Visits in Florida (Ava Hudson and Justin Yu) </p>
+<p>- Developing a Fairfax Topographic Accessibility Map (Kevin Hasani) </p>
+<p>- Crime Around Public Transit: Analyzing Spatio-Temporal Variations in Crime Rates Near D.C. Bus Stops (Monisha Preetham).</p>
 <p align="center"> <img src="/images/ASSIP2025_1.jpeg" style = "border:0"> </p> 
 <p align="center"> <img src="/images/ASSIP2025_2.jpeg" style = "border:0"> </p> 
 
@@ -43,19 +43,19 @@ redirect_from:
 
 <details>
 <summary><b>June 25, 2025</b></summary>
-<p align="justify">On behalf of GISphere, hosting a workshop on <a href="https://ucgissymposium2025.sched.com/event/23I91/from-student-to-gis-pro-gis-career-readiness-workshop"><b>From Student to GIS Pro: GIS Career Readiness workshop</b></a> at UCGIS symposium 2025. Join us to discuss strategies for building your professional network, investing in your professional development, and navigating the exciting world of GIS careers. </i>.</p>
+<p align="justify">On behalf of GISphere, hosting a workshop on <a href="https://ucgissymposium2025.sched.com/event/23I91/from-student-to-gis-pro-gis-career-readiness-workshop"><b>From Student to GIS Pro: GIS Career Readiness workshop</b></a> at UCGIS symposium 2025. Join us to discuss strategies for building your professional network, investing in your professional development, and navigating the exciting world of GIS careers.</p>
 
 </details>
 
 <details>
 <summary><b>April 18, 2025</b></summary>
-<p align="justify">Gave a talk on <b>"Exploring Human Perceptions for Safe, Sustainable, and Healthy Transportation Planning"</b> at Virginia Tech, Department of Geography  </i>.</p>
+<p align="justify">Gave a talk on <b>"Exploring Human Perceptions for Safe, Sustainable, and Healthy Transportation Planning"</b> at Virginia Tech, Department of Geography </p>
 
 </details>
 
 <details>
 <summary><b>Mar 24, 2025</b></summary>
-<p align="justify">Co-Organizing a session with Drs. Luyu Liu, Jinhyung Lee, and Huyen Le on <b>"Transportation and Environmental Exposure"</b> at the American Association of Geographers 2025 </i>.</p>
+<p align="justify">Co-Organizing a session with Drs. Luyu Liu, Jinhyung Lee, and Huyen Le on <b>"Transportation and Environmental Exposure"</b> at the American Association of Geographers 2025.</p>
 
 </details>
 
