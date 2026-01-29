@@ -39,10 +39,10 @@ redirect_from:
 
 <div class="row">
   <div class="column">
-    <img src="/images/ASSIP2025_1.jpeg" style = "border:0"> 
+    <img src="/images/ASSIP2025_1.jpeg" style = "border:0" style="width:50%"> 
   </div>
   <div class="column">
-    <img src="/images/ASSIP2025_2.jpeg" style = "border:0">
+    <img src="/images/ASSIP2025_2.jpeg" style = "border:0" style="width:50%">
   </div>
 </div>
 
