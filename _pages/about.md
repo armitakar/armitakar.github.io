@@ -36,7 +36,7 @@ redirect_from:
 - How Do Women Access Maternal Care? Spatial and Social Dimensions of Maternal Healthcare Visits in Florida (Ava Hudson and Justin Yu)
 - Developing a Fairfax Topographic Accessibility Map (Kevin Hasani)
 - Crime Around Public Transit: Analyzing Spatio-Temporal Variations in Crime Rates Near D.C. Bus Stops (Monisha Preetham) </i>.</p>
-<p align="center"> <img src="/images/ASSIP2025_1.jpg" style = "border:0"> </p> <p align="center"> <img src="/images/ASSIP2025_2.jpg" style = "border:0"> </p> 
+<p align="center"> <img src="/images/ASSIP2025_1.jpeg" style = "border:0"> </p> <p align="center"> <img src="/images/ASSIP2025_2.jpeg" style = "border:0"> </p> 
 </details>
 
 <details>
