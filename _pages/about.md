@@ -39,6 +39,11 @@ redirect_from:
 <p align="center"> <img src="/images/ASSIP2025_1.jpeg" style = "border:0"> </p> 
 <p align="center"> <img src="/images/ASSIP2025_2.jpeg" style = "border:0"> </p> 
 
+<div class="img-container">
+    <img src="/images/ASSIP2025_1.jpeg" style = "border:0">
+    <img src="/images/ASSIP2025_2.jpeg" style = "border:0">
+</div>
+
 </details>
 
 <details>
