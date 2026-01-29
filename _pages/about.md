@@ -30,8 +30,14 @@ redirect_from:
 <h1 style="font-size: 20;">Recent updates</h1>
 
 <details>
+<summary><b>April 18, 2025</b></summary>
+<p align="justify">Gave a talk on <b>"Exploring Human Perceptions for Safe, Sustainable, and Healthy Transportation Planning"</b> at Virginia Tech, Department of Geography  </i>.</p>
+
+</details>
+
+<details>
 <summary><b>Mar 24, 2025</b></summary>
-<p align="justify">Co-Organizing a session with Dr. Luyu Liu, Jinhyung Lee, and Huyen Le on <b>"Transportation and Environmental Exposure"</b>b> at the American Association of Geographers 2025 </i>.</p>
+<p align="justify">Co-Organizing a session with Drs. Luyu Liu, Jinhyung Lee, and Huyen Le on <b>"Transportation and Environmental Exposure"</b> at the American Association of Geographers 2025 </i>.</p>
 
 </details>
 
