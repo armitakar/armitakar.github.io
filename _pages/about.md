@@ -30,6 +30,12 @@ redirect_from:
 <h1 style="font-size: 20;">Recent updates</h1>
 
 <details>
+<summary><b>June 25, 2025</b></summary>
+<p align="justify">On behalf of GISphere, hosting a workshop on <a href="https://ucgissymposium2025.sched.com/event/23I91/from-student-to-gis-pro-gis-career-readiness-workshop"><b>"From Student to GIS Pro: GIS Career Readiness workshop"</b></a> at UCGIS symposium 2025. Join us to discuss strategies for building your professional network, investing in your professional development, and navigating the exciting world of GIS careers. More details are here:  </i>.</p>
+
+</details>
+
+<details>
 <summary><b>April 18, 2025</b></summary>
 <p align="justify">Gave a talk on <b>"Exploring Human Perceptions for Safe, Sustainable, and Healthy Transportation Planning"</b> at Virginia Tech, Department of Geography  </i>.</p>
 
