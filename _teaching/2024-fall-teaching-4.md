@@ -9,7 +9,7 @@ location: "Fairfax, VA, United States"
 ---
 
 Fall 2024
-<br>Introduction to Geoinformation Technologies (GGS 110)<be>
+<br>Introduction to Geoinformation Technologies (GGS 110)<br>
 
 Spring 2025
-<br>Spatial Computing (GGS 366)<br>
+<br>Spatial Computing (GGS 366)<a href="https://github.com/armitakar/GGS366_Spatial_Computing/tree/main">Course content</a><br>
