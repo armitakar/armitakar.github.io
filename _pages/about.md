@@ -16,13 +16,13 @@ redirect_from:
 <p align="justify">My current research answers three main questions:</p>
 
 
-1.	<p align="justify"><b>How can we combine multi-sensory data, large language models, and agentic AI to better characterize multimodal transportation environments and human experiences?</p>
+1.	<p align="justify"><b>How can we combine multi-sensory data, large language models, and agentic AI to better characterize multimodal transportation environments and human experiences?</b></p>
 
 
-2.	<p align="justify"><b>How can we leverage spatio-temporal AI models to detect and predict actual and perceived road risks, and thereby support safe infrastructure design, planning, and decision-making?</p>
+2.	<p align="justify"><b>How can we leverage spatio-temporal AI models to detect and predict actual and perceived road risks, and thereby support safe infrastructure design, planning, and decision-making?</b></p>
 
 
-3.	<p align="justify"><b>How can we integrate space-time accessibility measures, spatial interaction models, and geostatistics to reveal spatio-social barriers of healthcare access and travel?</p>
+3.	<p align="justify"><b>How can we integrate space-time accessibility measures, spatial interaction models, and geostatistics to reveal spatio-social barriers of healthcare access and travel?</b></p>
 
 
 <p align="justify"> My work has been published in several high-impact, peer-reviewed journals, including <i>Annals of the American Association of Geographers (AAG), Computers, Environment and Urban Systems, Transportation Research Part D, Applied Geography, Journal of Transport Geography, Transportation Research Record (TRR), Risk Analysis,</i> and <i>Atmospheric Environment</i>. I received several awards for my work, including <i>the Postdoc Idea Award from the NCH Abigail Wexner Research Institute, the E. Willard and Ruby S. Miller Scholarship from The Ohio State University, the Student Dissertation Award from the Sustainability Institute at The Ohio State University,</i> and <i>the Prime Minister Gold Medal from the University Grants Commission of Bangladesh</i>.</p>
