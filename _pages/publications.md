@@ -1,3 +1,5 @@
+For the most up-to-date publication list, please visit <a href="https://scholar.google.com/citations?user=1SMLap0AAAAJ&hl=en">my Google Scholar profile</a>
+
 ---
 layout: archive
 title: "Publications"
