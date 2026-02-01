@@ -9,10 +9,12 @@ author_profile: true
 <p align="center"> <img src="/images/TRB_Poster_2026.jpg" style = "border:0"> </p>
 <p font size = "8" align="center"><i>The paper was presented at Transportation Research Board Annual Meeting 2026</i></p>
 
+
 <b>Healthcare Deserts in Virginia:Rural-Urban and Socioeconomic Disparities in Access to Care</b>
 <p align="justify">Many rural communities in the United States live in healthcare deserts, areas without timely access to care, leading to higher rates of mortality and chronic disease compared to urban populations. While several studies examine healthcare access aggregately, few examine the unequal distribution of healthcare deserts across rural-urban areas and socio-economic drivers, especially in Virginia (VA). We perform our analysis at county and census tract levels, using drive-time thresholds and provider types to understand varying health desert measures across spatio-temporal scales and healthcare needs. Healthcare facilities are classified into five categories: (1) physicians, (2) outpatient care and community health centers, (3) general and surgical hospitals, (4) specialty hospitals, and (5) mental health facilities. Socio-economic variables include poverty rates, race, vehicle ownership, and health insurance coverage, and rural-urban classification. For each provider type, we calculate an access index representing facilities reachable within 15- and 30-minute driving thresholds. Areas with an index of zero are considered healthcare deserts. We use binary logistic regression to examine socio-economic and rural-urban factors influencing likelihood of an area being a healthcare desert. Our results reveal that using an appropriate spatial scale is crucial to better understand healthcare desert; deserts become more identifiable at finer spatial scales. Rural areas with additional socio-economic disadvantages (e.g., no medical insurance) are more likely to be classified as health deserts. Findings can help practitioners and policymakers target healthcare-disadvantaged communities to develop policies, ensuring equitable healthcare access throughout Virginia.</p>
 <p align="center"> <img src="/images/GMU_Healthcare_Deserts_TRB presentation.jpg" style = "border:0"> </p>
 <p font size = "8" align="center"><i>Healthcare desert maps using 15-minute driving thresholds and at the county (left) and tract-level (right). Deserts consistently appear in eastern and southwestern VA, regardless of spatial scale. The tract-level analysis reveals a stronger health desert pattern than the county-level analysis. More deserts appear in central and northern VA at the tract level.</i></p>
+
 
 
 <b>Exploring Determinants of Prenatal Care Travel</b>
@@ -20,11 +22,13 @@ author_profile: true
 <p align="center"> <img src="/images/Florida_OD_flow_map.jpg" style = "border:0"> </p>
 <p font size = "8" align="center"><i> Origin-destination flow map showing prenatal visits in Florida.</i></p>
 
+
 <b>Inclusive Accessibility: A Socially-Sensitive Approach of Incorporating Perceptions into Space-time Accessibility Measures</b>
 <p align="justify">My doctoral dissertation focuses on pioneering a novel concept and measure known as inclusive accessibility. This approach integrates people’s diverse travel choices and experiences into advancing space-time accessibility models. I posit this measure as a more realistic and socially aware representation of accessibility, as it distinguishes between the geographic spaces that are physically and perceptually accessible to individuals and social groups. My PhD dissertation also demonstrates application of inclusive accessibility approach in tailoring transportation infrastructure interventions specific to marginalized communities. </p>
 <p align="center"> <img src="/images/walking impedance.png" style = "border:0"> </p>
 <p align="center"> <img src="/images/Inclusive access.png" style = "border:0"> </p>
 <p font size = "8" align="center"><i> The figure illustrates geographic variations in walking perceptions between high-income white men and low-income women of color, along with its influence on the inclusive access measure for these respective social groups. </i></p>
+
 
 
 <b>Post Doctoral Research Scientist.</b> (August 2023 - July 2024)
