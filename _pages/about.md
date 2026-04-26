@@ -28,6 +28,7 @@ redirect_from:
 <p align="justify"> My work has been published in several high-impact, peer-reviewed journals, including <i>Annals of the American Association of Geographers (AAG), Computers, Environment and Urban Systems, Transportation Research Part D, Applied Geography, Journal of Transport Geography, Transportation Research Record (TRR), Risk Analysis,</i> and <i>Atmospheric Environment</i>. I received several awards for my work, including <i>the Postdoc Idea Award from the NCH Abigail Wexner Research Institute, the E. Willard and Ruby S. Miller Scholarship from The Ohio State University, the Student Dissertation Award from the Sustainability Institute at The Ohio State University,</i> and <i>the Prime Minister Gold Medal from the University Grants Commission of Bangladesh</i>.</p>
 
 <h1 style="font-size: 20;">Recent updates</h1>
+
 <details>
 <summary><b>August 07, 2025</b></summary>
 <p align="justify">This summer, I had the opportunity to mentor 5 high-school and one undergraduate student through the GMU Aspiring Scientists Summer Internship Program (ASSIP). Just within six weeks, these students successfully completed the following projects, including data collection, processing, modeling, and preparing the final presentation for each:
