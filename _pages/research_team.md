@@ -10,7 +10,7 @@ author_profile: true
 
 <table style="border: none; border-radius: 8px; padding: 10px;">
   <tr>
-    <td style="border: none><img src="/images/Yifei_Wang.jpeg" width="100" style="border-radius: 50%;"></td>
+    <td style="border: none"><img src="/images/Yifei_Wang.jpeg" width="100" style="border-radius: 50%;"></td>
     <td style="padding-left: 15px;border: none">
       <h3 style="margin: 0;"> <a href="https://www.linkedin.com/in/yifei-wang-b8324b375/">Yifei Wang</a></h3>
       <p style="margin: 0; color: gray;">Ph.D Student, Geography and Geoinformation Science (GGS)</p>
