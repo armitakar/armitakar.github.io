@@ -37,6 +37,15 @@ author_profile: true
   margin-bottom: 8px;
 }
 
+.project-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-title a:hover {
+  text-decoration: underline;
+}
+
 .project-desc {
   font-size: 14px;
   color: #444;
@@ -47,6 +56,12 @@ author_profile: true
   width: 100%;
   border-radius: 8px;
   margin-top: 12px;
+  transition: opacity 0.2s ease;
+}
+
+.project-img:hover {
+  opacity: 0.9;
+  cursor: pointer;
 }
 
 .project-caption {
@@ -60,71 +75,95 @@ author_profile: true
 <div class="project-grid">
 
   <!-- Project 1 -->
-  <a href="#" class="project-link">
-    <div class="project-card">
-      <div class="project-title">
+  <div class="project-card">
+    <div class="project-title">
+      <a href="#" class="project-link">
         Interrelationship between pedestrian streetscape, perceptions, and willingness
-      </div>
-      <div class="project-desc">
-        This research quantifies micro-level pedestrian streetscape features using Vision Language models and examines both mediation pathways and predictive relationships among pedestrian streetscape, safety perceptions, and walking willingness using SEM, GPBoost, and SHAP analysis. Findings highlight the importance of features such as curb ramps, traffic controls, and green spaces in shaping perceived safety, which in turn drives people’s willingness to walk — offering actionable insights for encouraging walking behavior.
-      </div>
-      <img src="/images/TRB_Poster_2026.jpg" class="project-img">
-      <div class="project-caption">
-        Presented at TRB 2026
-      </div>
+      </a>
     </div>
-  </a>
+
+    <div class="project-desc">
+      This research quantifies micro-level pedestrian streetscape features using Vision Language models and examines both mediation pathways and predictive relationships among pedestrian streetscape, safety perceptions, and walking willingness using SEM, GPBoost, and SHAP analysis. Findings highlight the importance of features such as curb ramps, traffic controls, and green spaces in shaping perceived safety, which in turn drives people’s willingness to walk — offering actionable insights for encouraging walking behavior.
+    </div>
+
+    <a href="#" class="project-link" target="_blank">
+      <img src="/images/TRB_Poster_2026.jpg" class="project-img">
+    </a>
+
+    <div class="project-caption">
+      Presented at TRB 2026
+    </div>
+  </div>
 
   <!-- Project 2 -->
-  <a href="#" class="project-link">
-    <div class="project-card">
-      <div class="project-title">
+  <div class="project-card">
+    <div class="project-title">
+      <a href="#" class="project-link">
         Healthcare Deserts in Virginia
-      </div>
-      <div class="project-desc">
-        This study examines how healthcare deserts and their rural–urban and socioeconomic drivers vary across spatiotemporal scales and healthcare provider types. Using the state of Virginia as a case study, the work emphasizes the need for high-resolution spatial analysis to accurately locate healthcare disadvantaged areas.
-      </div>
-      <img src="/images/GMU_Healthcare_Deserts_TRB presentation.jpg" class="project-img">
-      <div class="project-caption">
-        County vs. tract-level patterns
-      </div>
+      </a>
     </div>
-  </a>
+
+    <div class="project-desc">
+      This study examines how healthcare deserts and their rural–urban and socioeconomic drivers vary across spatiotemporal scales and healthcare provider types. Using the state of Virginia as a case study, the work emphasizes the need for high-resolution spatial analysis to accurately locate healthcare disadvantaged areas.
+    </div>
+
+    <a href="#" class="project-link" target="_blank">
+      <img src="/images/GMU_Healthcare_Deserts_TRB presentation.jpg" class="project-img">
+    </a>
+
+    <div class="project-caption">
+      County vs. tract-level patterns
+    </div>
+  </div>
 
   <!-- Project 3 -->
-  <a href="#" class="project-link">
-    <div class="project-card">
-      <div class="project-title">
+  <div class="project-card">
+    <div class="project-title">
+      <a href="#" class="project-link">
         Determinants of Prenatal Care Travel
-      </div>
-      <div class="project-desc">
-        Proximity enables interaction, but what else influences where people go? Using 19.8 million prenatal trips to maternal healthcare facilities across Florida (2016-2022), constructed from patient hospital electronic visitation records, we examine how spatial, socioeconomic, and facility characteristics influence travel. We estimate a negative binomial model of trip counts incorporating origin-, destination- and flow-based predictors. While distance remains a dominant deterrent, its influence is conditioned by rurality, facility capacity, and community health context. These patterns underscore that prenatal maternal travel reflects broader contextual factors beyond geographic distance.
-      </div>
-      <img src="/images/Florida_OD_flow_map.jpg" class="project-img">
-      <div class="project-caption">
-        Prenatal OD flows in Florida
-      </div>
+      </a>
     </div>
-  </a>
+
+    <div class="project-desc">
+      Proximity enables interaction, but what else influences where people go? Using 19.8 million prenatal trips to maternal healthcare facilities across Florida (2016-2022), constructed from patient hospital electronic visitation records, we examine how spatial, socioeconomic, and facility characteristics influence travel. We estimate a negative binomial model of trip counts incorporating origin-, destination- and flow-based predictors. While distance remains a dominant deterrent, its influence is conditioned by rurality, facility capacity, and community health context. These patterns underscore that prenatal maternal travel reflects broader contextual factors beyond geographic distance.
+    </div>
+
+    <a href="#" class="project-link" target="_blank">
+      <img src="/images/Florida_OD_flow_map.jpg" class="project-img">
+    </a>
+
+    <div class="project-caption">
+      Prenatal OD flows in Florida
+    </div>
+  </div>
 
   <!-- Project 4 -->
-  <a href="#" class="project-link">
-    <div class="project-card">
-      <div class="project-title">
+  <div class="project-card">
+    <div class="project-title">
+      <a href="#" class="project-link">
         Inclusive Accessibility
-      </div>
-      <div class="project-desc">
-        Inclusive Accessibility: A Socially-Sensitive Approach of Incorporating Perceptions into Space-time Accessibility Measures</b> <p align="justify">My doctoral dissertation focuses on pioneering a novel concept and measure known as inclusive accessibility. This approach integrates people’s diverse travel choices and experiences into advancing space-time accessibility models. I posit this measure as a more realistic and socially aware representation of accessibility, as it distinguishes between the geographic spaces that are physically and perceptually accessible to individuals and social groups. My PhD dissertation also demonstrates application of inclusive accessibility approach in tailoring transportation infrastructure interventions specific to marginalized communities.
-      </div>
-      <img src="/images/walking impedance.png" class="project-img">
-      <img src="/images/Inclusive access.png" class="project-img">
-      <div class="project-caption">
-        Perception-driven accessibility differences
-      </div>
+      </a>
     </div>
-  </a>
+
+    <div class="project-desc">
+      My doctoral dissertation focuses on pioneering a novel concept and measure known as inclusive accessibility. This approach integrates people’s diverse travel choices and experiences into advancing space-time accessibility models. I posit this measure as a more realistic and socially aware representation of accessibility, as it distinguishes between the geographic spaces that are physically and perceptually accessible to individuals and social groups. My dissertation also demonstrates how inclusive accessibility can guide transportation interventions for marginalized communities.
+    </div>
+
+    <a href="#" class="project-link" target="_blank">
+      <img src="/images/walking impedance.png" class="project-img">
+    </a>
+
+    <a href="#" class="project-link" target="_blank">
+      <img src="/images/Inclusive access.png" class="project-img">
+    </a>
+
+    <div class="project-caption">
+      Perception-driven accessibility differences
+    </div>
+  </div>
 
 </div>
+
 
 
 <b>Post Doctoral Research Scientist.</b> (August 2023 - July 2024)
