@@ -8,7 +8,7 @@ author_profile: true
 <p></p>
 <h1>Graduate Students</h1>
 
-<table style="border: 0px solid #FFFFFF; border-radius: 8px; padding: 10px;">
+<table style="border: none; border-radius: 8px; padding: 10px;">
   <tr>
     <td><img src="/images/Yifei_Wang.jpeg" width="100" style="border-radius: 50%;"></td>
     <td style="padding-left: 15px;">
@@ -28,7 +28,7 @@ author_profile: true
 
 <p></p>
 <h1>Undergraduate and High School Students</h1>
-<table style="border: 0px solid #FFF; border-radius: 8px; padding: 10px;">
+<table style="border: none; border-radius: 8px; padding: 10px;">
   <tr>
     <td style="padding-left: 15px;"><h3 style="margin: 0;"> <a href="https://www.linkedin.com/in/sarah-zak-4400772a9/">Sarah Zak</a></h3></td>
     <td style="margin: 0; color: gray;">Health Informatics, George Mason University</td>
