@@ -149,18 +149,18 @@ author_profile: true
 </div>
 
 <div class="people-section">
-  <h2>External Collaborators</h2>
+  <h2>Collaborators</h2>
 
   <div class="people-grid">
 
     <div class="person-card">
-      <img src="/images/example.jpg" class="person-img">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTPX_5pvTY4eM6zD8DMsGGgkgoXQOl0u0rYuW5NAcVFT_5DCkr7y9ZPf6-ya8O1B9qtRG&s" class="person-img">
       <div class="person-info">
         <div class="person-name">
-          <a href="#" target="_blank">Collaborator Name</a>
+          <a href="https://theheal.ca/team/anastasia-soukhov/" target="_blank">Anastasia Soukhov</a>
         </div>
         <div class="person-role">
-          Affiliation / Position
+          Postdoctoral associate, Human Environments Analysis Laboratory (HEAL), Western University
         </div>
       </div>
     </div>
