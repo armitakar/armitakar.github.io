@@ -4,32 +4,127 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<b>Interrelationship between pedestrian streetscape, walking perceptions, and willingness: An analysis using Large Language Models and Explainable Artificial Intelligence (AI)</b>
-<p align="justify">Walking willingness varies across space and society, due to differences in streetscape characteristics and perceived walking experiences. Existing studies mainly underscore the association between neighborhood environment and walking perceptions. However, due to data limitations, little is known about how micro-level pedestrian streetscape influences spatio-social variations in walking perceptions and willingness. To overcome this gap, this study first leverages multimodal large language models (LLMs) to extract micro-level pedestrian streetscape features, namely sidewalk presence, crosswalk signs and curb ramps, and surface, buffer, and traffic signal types. Next, we examine both causal and predictive relationships between road and pedestrian streetscape features, walking perceptions, and willingness using structural equation modelling (SEM) and explainable machine learning (GPBoost and SHAP). We use a mobility survey dataset of 451 participants, rating 1,197 streets in Columbus, OH, based on three main parameters: perceived visual quality, perceived safety, and walking willingness. Using Street View Images, the LLM model identifies pedestrian features for all survey streets, with over 90% accuracy. The SEM further reveals that pedestrian streetscapes, such as sidewalks, buffers, and curb ramps, positively influence walking willingness, with perceived safety exerting a stronger mediating effect than perceived visual quality. The SHAP analysis aligns with SEM mediation patterns, showing that the contributions of perceived safety and visual quality toward willingness predictions are respectively 29% and 7%. These findings highlight intervention priorities: investments in sidewalks, greenery, and accessible curb ramps in underserved communities to enhance both walking experiences and willingness to walk.</p>
-<p align="center"> <img src="/images/TRB_Poster_2026.jpg" style = "border:0"> </p>
-<p font size = "8" align="center"><i>The paper was presented at Transportation Research Board Annual Meeting 2026</i></p>
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+}
 
+.project-link {
+  text-decoration: none;
+  color: inherit;
+}
 
+.project-card {
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 18px;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
 
-<b>Healthcare Deserts in Virginia:Rural-Urban and Socioeconomic Disparities in Access to Care</b>
-<p align="justify">Many rural communities in the United States live in healthcare deserts, areas without timely access to care, leading to higher rates of mortality and chronic disease compared to urban populations. While several studies examine healthcare access aggregately, few examine the unequal distribution of healthcare deserts across rural-urban areas and socio-economic drivers, especially in Virginia (VA). We perform our analysis at county and census tract levels, using drive-time thresholds and provider types to understand varying health desert measures across spatio-temporal scales and healthcare needs. Healthcare facilities are classified into five categories: (1) physicians, (2) outpatient care and community health centers, (3) general and surgical hospitals, (4) specialty hospitals, and (5) mental health facilities. Socio-economic variables include poverty rates, race, vehicle ownership, and health insurance coverage, and rural-urban classification. For each provider type, we calculate an access index representing facilities reachable within 15- and 30-minute driving thresholds. Areas with an index of zero are considered healthcare deserts. We use binary logistic regression to examine socio-economic and rural-urban factors influencing likelihood of an area being a healthcare desert. Our results reveal that using an appropriate spatial scale is crucial to better understand healthcare desert; deserts become more identifiable at finer spatial scales. Rural areas with additional socio-economic disadvantages (e.g., no medical insurance) are more likely to be classified as health deserts. Findings can help practitioners and policymakers target healthcare-disadvantaged communities to develop policies, ensuring equitable healthcare access throughout Virginia.</p>
-<p align="center"> <img src="/images/GMU_Healthcare_Deserts_TRB presentation.jpg" style = "border:0"> </p>
-<p font size = "8" align="center"><i>Healthcare desert maps using 15-minute driving thresholds and at the county (left) and tract-level (right). Deserts consistently appear in eastern and southwestern VA, regardless of spatial scale. The tract-level analysis reveals a stronger health desert pattern than the county-level analysis. More deserts appear in central and northern VA at the tract level.</i></p>
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.08);
+}
 
+.project-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
 
+.project-desc {
+  font-size: 14px;
+  color: #444;
+  text-align: justify;
+}
 
-<b>Exploring Determinants of Prenatal Care Travel</b>
-<p align="justify">Proximity enables interaction, but what else influences where people go? Using 19.8 million prenatal trips to maternal healthcare facilities across Florida (2016-2022), constructed from patient hospital electronic visitation records, we examine how spatial, socioeconomic, and facility characteristics influence travel. We estimate a negative binomial model of trip counts incorporating origin-, destination- and flow-based predictors. While distance remains a dominant deterrent, its influence is conditioned by rurality, facility capacity, and community health context. These patterns underscore that prenatal maternal travel reflects broader contextual factors beyond geographic distance.</p>
-<p align="center"> <img src="/images/Florida_OD_flow_map.jpg" style = "border:0"> </p>
-<p font size = "8" align="center"><i> Origin-destination flow map showing prenatal visits in Florida.</i></p>
+.project-img {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 12px;
+}
 
+.project-caption {
+  font-size: 12px;
+  color: #777;
+  text-align: center;
+  margin-top: 6px;
+}
+</style>
 
-<b>Inclusive Accessibility: A Socially-Sensitive Approach of Incorporating Perceptions into Space-time Accessibility Measures</b>
-<p align="justify">My doctoral dissertation focuses on pioneering a novel concept and measure known as inclusive accessibility. This approach integrates people’s diverse travel choices and experiences into advancing space-time accessibility models. I posit this measure as a more realistic and socially aware representation of accessibility, as it distinguishes between the geographic spaces that are physically and perceptually accessible to individuals and social groups. My PhD dissertation also demonstrates application of inclusive accessibility approach in tailoring transportation infrastructure interventions specific to marginalized communities. </p>
-<p align="center"> <img src="/images/walking impedance.png" style = "border:0"> </p>
-<p align="center"> <img src="/images/Inclusive access.png" style = "border:0"> </p>
-<p font size = "8" align="center"><i> The figure illustrates geographic variations in walking perceptions between high-income white men and low-income women of color, along with its influence on the inclusive access measure for these respective social groups. </i></p>
+<div class="project-grid">
 
+  <!-- Project 1 -->
+  <a href="#" class="project-link">
+    <div class="project-card">
+      <div class="project-title">
+        Interrelationship between pedestrian streetscape, perceptions, and willingness
+      </div>
+      <div class="project-desc">
+        This study uses multimodal LLMs and explainable AI to examine how streetscape features shape walking willingness, highlighting the role of perceived safety.
+      </div>
+      <img src="/images/TRB_Poster_2026.jpg" class="project-img">
+      <div class="project-caption">
+        Presented at TRB 2026
+      </div>
+    </div>
+  </a>
+
+  <!-- Project 2 -->
+  <a href="#" class="project-link">
+    <div class="project-card">
+      <div class="project-title">
+        Healthcare Deserts in Virginia
+      </div>
+      <div class="project-desc">
+        Examines rural–urban and socioeconomic disparities in healthcare access using multi-scale spatial analysis.
+      </div>
+      <img src="/images/GMU_Healthcare_Deserts_TRB presentation.jpg" class="project-img">
+      <div class="project-caption">
+        County vs. tract-level patterns
+      </div>
+    </div>
+  </a>
+
+  <!-- Project 3 -->
+  <a href="#" class="project-link">
+    <div class="project-card">
+      <div class="project-title">
+        Determinants of Prenatal Care Travel
+      </div>
+      <div class="project-desc">
+        Uses 19.8M trips to model how distance, rurality, and facility capacity shape maternal healthcare travel.
+      </div>
+      <img src="/images/Florida_OD_flow_map.jpg" class="project-img">
+      <div class="project-caption">
+        Prenatal OD flows in Florida
+      </div>
+    </div>
+  </a>
+
+  <!-- Project 4 -->
+  <a href="#" class="project-link">
+    <div class="project-card">
+      <div class="project-title">
+        Inclusive Accessibility
+      </div>
+      <div class="project-desc">
+        Introduces a socially-sensitive accessibility measure incorporating perceptions and lived experiences.
+      </div>
+      <img src="/images/walking impedance.png" class="project-img">
+      <img src="/images/Inclusive access.png" class="project-img">
+      <div class="project-caption">
+        Perception-driven accessibility differences
+      </div>
+    </div>
+  </a>
+
+</div>
 
 
 <b>Post Doctoral Research Scientist.</b> (August 2023 - July 2024)
