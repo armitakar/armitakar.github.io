@@ -7,7 +7,7 @@ author_profile: true
 
 <h1>Graduate Students</h1>
 
-<table style="border: 0px solid #ccc; border-radius: 8px; padding: 10px;">
+<table style="border: 0px solid #FFF; border-radius: 8px; padding: 10px;">
   <tr>
     <td><img src="/images/Yifei_Wang.jpeg" width="100" style="border-radius: 50%;"></td>
     <td style="padding-left: 15px;">
