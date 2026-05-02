@@ -50,8 +50,8 @@ redirect_from:
   }
 
   .icon {
-    flex: 0 0 70px;
-    height: 70px;
+    flex: 0 0 100px;
+    height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
