@@ -109,7 +109,7 @@ redirect_from:
       <b>2. How can we leverage spatiotemporal AI models to detect and predict actual and perceived road risks, and support safer infrastructure design and planning?</b>
     </div>
     <div class="card-img">
-      <img src="images/research_q2.png" alt="Risk modeling">
+      <img src="images/research_q2.jpeg" alt="Risk modeling">
       <div class="caption">Spatiotemporal modeling of road safety and perceived risk.</div>
     </div>
   </div>
@@ -117,7 +117,7 @@ redirect_from:
   <!-- Card 3 -->
   <div class="card">
     <div class="card-img">
-      <img src="images/research_q3.png" alt="Healthcare access">
+      <img src="images/research_q3.jpg" alt="Healthcare access">
     </div>
     <div class="card-text">
       <b>3. How can we integrate space-time accessibility, spatial interaction models, and geostatistics to reveal spatio-social barriers in healthcare access?</b>
