@@ -29,62 +29,73 @@ redirect_from:
   .section-title {
     font-size: 1.4em;
     font-weight: 600;
-    margin: 30px 0 15px 0;
+    margin: 30px 0 20px 0;
   }
 
   .card {
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 20px;
-    background: #fafafa;
+    align-items: flex-start;
+    gap: 18px;
     border-radius: 12px;
-    padding: 20px;
-    margin-bottom: 25px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    padding: 18px 20px;
+    margin-bottom: 18px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-left: 6px solid;
   }
 
   .card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  }
+
+  .icon {
+    flex: 0 0 55px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+
+  .icon img {
+    width: 32px;
+    height: 32px;
   }
 
   .card-text {
-    flex: 1 1 400px;
+    flex: 1;
+    text-align: justify;
   }
 
   .card-text b {
     font-size: 1.05em;
   }
 
-  .card-img {
-    flex: 1 1 300px;
-    text-align: center;
+  /* Color themes */
+  .card.blue {
+    background: #f4f8ff;
+    border-color: #4a90e2;
   }
 
-  .card-img img {
-    max-width: 100%;
-    border-radius: 8px;
+  .card.green {
+    background: #f3fbf6;
+    border-color: #2ecc71;
   }
 
-  .caption {
-    font-size: 0.85em;
-    color: #666;
-    margin-top: 5px;
+  .card.orange {
+    background: #fff7f2;
+    border-color: #f39c12;
   }
 
   .footer-text {
     margin-top: 30px;
     text-align: justify;
   }
-
-  @media (max-width: 768px) {
-    .card {
-      flex-direction: column;
-    }
-  }
 </style>
+
 
 <div class="container">
   <p class="intro"> Welcome! I am a GIScientist and transportation geographer researching the complex interactions between human mobility, environment, safety, and health. Currently, I serve as an Assistant Professor in the Department of Geography and Geoinformation Science at George Mason University. I completed my Ph.D. in Geography at The Ohio State University in 2023, my Master's in Geography and GIS at the University of Utah in 2019, and Bachelor's in Urban and Regional Planning from the Bangladesh University of Engineering and Technology (BUET) in 2015. </p>
@@ -92,37 +103,34 @@ redirect_from:
 
 <div class="section-title">My current research answers three main questions</div>
 
-<!-- Card 1 -->
-  <div class="card">
+ <!-- Card 1 -->
+  <div class="card blue">
+    <div class="icon">
+      <img src="images/research_q1.png" alt="AI icon">
+    </div>
     <div class="card-text">
       <b>1. How can we combine multi-sensory data, large language models, and agentic AI to better characterize multimodal transportation environments and human experiences?</b>
     </div>
-    <div class="card-img">
-      <img src="images/research_q1.png" alt="Multisensory AI framework">
-      <div class="caption">Integrating multi-sensory data and AI for mobility understanding.</div>
-    </div>
   </div>
 
-<!-- Card 2 -->
-  <div class="card">
-    <div class="card-text">
-      <b>2. How can we leverage spatiotemporal AI models to detect and predict actual and perceived road risks, and support safer infrastructure design and planning?</b>
+  <!-- Card 2 -->
+  <div class="card green">
+    <div class="icon">
+      <img src="images/research_q2.jpeg" alt="Risk icon">
     </div>
-    <div class="card-img">
-      <img src="images/research_q2.jpeg" alt="Risk modeling">
-      <div class="caption">Spatiotemporal modeling of road safety and perceived risk.</div>
+    <div class="card-text">
+      <b>2. How can we leverage spatio-temporal AI models to detect and predict actual and perceived road risks, and thereby support safe infrastructure design, planning, and decision-making?</b>
     </div>
   </div>
 
   <!-- Card 3 -->
-  <div class="card">
-    <div class="card-img">
-      <img src="images/research_q3.jpg" alt="Healthcare access">
+  <div class="card orange">
+    <div class="icon">
+      <img src="images/research_q3.jpg" alt="Health icon">
     </div>
     <div class="card-text">
-      <b>3. How can we integrate space-time accessibility, spatial interaction models, and geostatistics to reveal spatio-social barriers in healthcare access?</b>
+      <b>3. How can we integrate space-time accessibility measures, spatial interaction models, and geostatistics to reveal spatio-social barriers of healthcare access and travel?</b>
     </div>
-    
   </div>
 
 
