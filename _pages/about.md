@@ -28,6 +28,28 @@ redirect_from:
 <p align="justify"> My work has been published in several high-impact, peer-reviewed journals, including <i>Annals of the American Association of Geographers (AAG), Computers, Environment and Urban Systems, Transportation Research Part D, Applied Geography, Journal of Transport Geography, Transportation Research Record (TRR), Risk Analysis,</i> and <i>Atmospheric Environment</i>. I received several awards for my work, including <i>the Postdoc Idea Award from the NCH Abigail Wexner Research Institute, the E. Willard and Ruby S. Miller Scholarship from The Ohio State University, the Student Dissertation Award from the Sustainability Institute at The Ohio State University,</i> and <i>the Prime Minister Gold Medal from the University Grants Commission of Bangladesh</i>.</p>
 
 <h1 style="font-size: 20;">Recent updates</h1>
+<details>
+<summary><b>February 19-22, 2026</b></summary>
+<p align="justify"> Anastasia Soukhov presenting our work on "Exploring Determinants of Prenatal Care Travel", a transport-focused analysis of non-explicit transportation data: medical electronic records covering every birth (and associated prenatal care) in the state of Florida, at the Spatial Knowledge and Information Conference (SKI) 2026. </p>
+</details>
+
+
+<details>
+<summary><b>February 19-22, 2026</b></summary>
+<p align="justify"> Anastasia Soukhov presenting our work on "Exploring Determinants of Prenatal Care Travel", a transport-focused analysis of non-explicit transportation data: medical electronic records covering every birth (and associated prenatal care) in the state of Florida, at the Spatial Knowledge and Information Conference (SKI) 2026. </p>
+</details>
+
+
+<details>
+<summary><b>January 11-15, 2026</b></summary>
+<p align="justify">Attending the Transportation Research Board Annual Meeting 2026. Please join us in our lecture session on “H𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗗𝗲𝘀𝗲𝗿𝘁𝘀 𝗶𝗻 𝗩𝗶𝗿𝗴𝗶𝗻𝗶𝗮: 𝗥𝘂𝗿𝗮𝗹–𝗨𝗿𝗯𝗮𝗻 𝗮𝗻𝗱 𝗦𝗼𝗰𝗶𝗼𝗲𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝗶𝗲𝘀 𝗶𝗻 𝗔𝗰𝗰𝗲𝘀𝘀 𝘁𝗼 𝗖𝗮𝗿𝗲”, led by undergraduate and high school students Sarah Zak and Stepan Mkrtchian, and a poster session on “𝗜𝗻𝘁𝗲𝗿𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝗕𝗲𝘁𝘄𝗲𝗲𝗻 𝗣𝗲𝗱𝗲𝘀𝘁𝗿𝗶𝗮𝗻 𝗦𝘁𝗿𝗲𝗲𝘁𝘀𝗰𝗮𝗽𝗲, 𝗪𝗮𝗹𝗸𝗶𝗻𝗴 𝗣𝗲𝗿𝗰𝗲𝗽𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗪𝗶𝗹𝗹𝗶𝗻𝗴𝗻𝗲𝘀𝘀: 𝗔𝗻 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗨𝘀𝗶𝗻𝗴 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗮𝗹 𝗘𝗾𝘂𝗮𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 (𝗦𝗘𝗠) 𝗮𝗻𝗱 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝗔𝗜” led by PhD student, Yifei Wang. </p>
+</details>
+
+
+<details>
+<summary><b>October 20, 2025</b></summary>
+<p align="justify">Presenting on 'Exploring Human Mobility Experiences: Role of Artificial Intelligence and Multisensory Data in Human-Centered Transportation Planning' at GMU Department of Civil, Environmental, and Infrastructure Engineering. Thanks to GMU CEIE faculty and students for the invite. I truly enjoyed sharing my work and engaging in such thoughtful discussions.</p>
+</details>
 
 <details>
 <summary><b>August 07, 2025</b></summary>
