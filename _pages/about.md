@@ -50,20 +50,20 @@ redirect_from:
   }
 
   .icon {
-    flex: 0 0 55px;
-    height: 55px;
+    flex: 0 0 70px;
+    height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 10px;
     background: white;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    border: 1px solid #e5e7eb;  /* light gray */
   }
 
   .icon img {
-    width: 32px;
-    height: 32px;
-  }
+  width: 40px;   
+  height: 40px;
+}
 
   .card-text {
     flex: 1;
