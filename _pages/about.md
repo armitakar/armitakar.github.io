@@ -119,7 +119,7 @@ redirect_from:
       <img src="images/research_q2.jpeg" alt="Risk icon">
     </div>
     <div class="card-text">
-      <b>2. How can we leverage spatio-temporal AI models to detect and predict actual and perceived road risks, and thereby support safe infrastructure design, planning, and decision-making?</b>
+      <b>2. How can we leverage spatio-temporal AI models to detect and predict actual and perceived road risks, and support safe infrastructure design, planning, and decision-making?</b>
     </div>
   </div>
 
