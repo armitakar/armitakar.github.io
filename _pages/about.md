@@ -7,25 +7,126 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="justify"> Welcome! I am a GIScientist and transportation geographer researching the complex interactions between human mobility, environment, safety, and health. Currently, I serve as an Assistant Professor in the Department of Geography and Geoinformation Science at George Mason University. I completed my Ph.D. in Geography at The Ohio State University in 2023, my Master's in Geography and GIS at the University of Utah in 2019, and Bachelor's in Urban and Regional Planning from the Bangladesh University of Engineering and Technology (BUET) in 2015.</p>
+
+<style>
+  body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  .intro {
+    text-align: justify;
+    margin-bottom: 25px;
+  }
+
+  .section-title {
+    font-size: 1.4em;
+    font-weight: 600;
+    margin: 30px 0 15px 0;
+  }
+
+  .card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    background: #fafafa;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  }
+
+  .card-text {
+    flex: 1 1 400px;
+  }
+
+  .card-text b {
+    font-size: 1.05em;
+  }
+
+  .card-img {
+    flex: 1 1 300px;
+    text-align: center;
+  }
+
+  .card-img img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  .caption {
+    font-size: 0.85em;
+    color: #666;
+    margin-top: 5px;
+  }
+
+  .footer-text {
+    margin-top: 30px;
+    text-align: justify;
+  }
+
+  @media (max-width: 768px) {
+    .card {
+      flex-direction: column;
+    }
+  }
+</style>
+
+<div class="container">
+  <p class="intro"> Welcome! I am a GIScientist and transportation geographer researching the complex interactions between human mobility, environment, safety, and health. Currently, I serve as an Assistant Professor in the Department of Geography and Geoinformation Science at George Mason University. I completed my Ph.D. in Geography at The Ohio State University in 2023, my Master's in Geography and GIS at the University of Utah in 2019, and Bachelor's in Urban and Regional Planning from the Bangladesh University of Engineering and Technology (BUET) in 2015. </p>
+  <p class="intro"> My research lies at the intersection of GIScience, transportation geography, cognitive and behavioral geography, and health and safety. I am specifically interested in modelling and understanding how urban environments and the human experiences around them shape urban mobility, as well as their safety and health outcomes across diverse population groups. My work integrates geospatial artificial intelligence (GeoAI), spatiotemporal modeling, network analytics, and citizen science to advance data-driven, human-centered solutions for safer, healthier, and more inclusive transportation environments.</p>
+
+<div class="section-title">My current research answers three main questions</div>
+
+<!-- Card 1 -->
+  <div class="card">
+    <div class="card-text">
+      <b>1. How can we combine multi-sensory data, large language models, and agentic AI to better characterize multimodal transportation environments and human experiences?</b>
+    </div>
+    <div class="card-img">
+      <img src="images/research_q1.png" alt="Multisensory AI framework">
+      <div class="caption">Integrating multi-sensory data and AI for mobility understanding.</div>
+    </div>
+  </div>
+
+<!-- Card 2 -->
+  <div class="card">
+    <div class="card-text">
+      <b>2. How can we leverage spatiotemporal AI models to detect and predict actual and perceived road risks, and support safer infrastructure design and planning?</b>
+    </div>
+    <div class="card-img">
+      <img src="images/research_q2.png" alt="Risk modeling">
+      <div class="caption">Spatiotemporal modeling of road safety and perceived risk.</div>
+    </div>
+  </div>
+
+  <!-- Card 3 -->
+  <div class="card">
+    <div class="card-img">
+      <img src="images/research_q3.png" alt="Healthcare access">
+    </div>
+    <div class="card-text">
+      <b>3. How can we integrate space-time accessibility, spatial interaction models, and geostatistics to reveal spatio-social barriers in healthcare access?</b>
+    </div>
+    
+  </div>
 
 
-<p align="justify"> My research lies at the intersection of GIScience, transportation geography, cognitive and behavioral geography, and health and safety. I am specifically interested in modelling and understanding how urban environments and the human experiences around them shape urban mobility, as well as their safety and health outcomes across diverse population groups. My work integrates geospatial artificial intelligence (GeoAI), spatiotemporal modeling, network analytics, and citizen science to advance data-driven, human-centered solutions for safer, healthier, and more inclusive transportation environments.</p>
-
-
-<p align="justify">My current research answers three main questions:</p>
-
-
-1.	<p align="justify"><b>How can we combine multi-sensory data, large language models, and agentic AI to better characterize multimodal transportation environments and human experiences?</b></p>
-
-
-2.	<p align="justify"><b>How can we leverage spatio-temporal AI models to detect and predict actual and perceived road risks, and thereby support safe infrastructure design, planning, and decision-making?</b></p>
-
-
-3.	<p align="justify"><b>How can we integrate space-time accessibility measures, spatial interaction models, and geostatistics to reveal spatio-social barriers of healthcare access and travel?</b></p>
-
-
-<p align="justify"> My work has been published in several high-impact, peer-reviewed journals, including <i>Annals of the American Association of Geographers (AAG), Computers, Environment and Urban Systems, Transportation Research Part D, Applied Geography, Journal of Transport Geography, Transportation Research Record (TRR), Risk Analysis,</i> and <i>Atmospheric Environment</i>. I received several awards for my work, including <i>the Postdoc Idea Award from the NCH Abigail Wexner Research Institute, the E. Willard and Ruby S. Miller Scholarship from The Ohio State University, the Student Dissertation Award from the Sustainability Institute at The Ohio State University,</i> and <i>the Prime Minister Gold Medal from the University Grants Commission of Bangladesh</i>.</p>
+<p class="footer-text"> My work has been published in several high-impact, peer-reviewed journals, including <i>Annals of the American Association of Geographers (AAG), Computers, Environment and Urban Systems, Transportation Research Part D, Applied Geography, Journal of Transport Geography, Transportation Research Record (TRR), Risk Analysis,</i> and <i>Atmospheric Environment</i>. I received several awards for my work, including <i>the Postdoc Idea Award from the NCH Abigail Wexner Research Institute, the E. Willard and Ruby S. Miller Scholarship from The Ohio State University, the Student Dissertation Award from the Sustainability Institute at The Ohio State University,</i> and <i>the Prime Minister Gold Medal from the University Grants Commission of Bangladesh</i>.</p>
 
 <h1 style="font-size: 20;">Recent updates</h1>
 
