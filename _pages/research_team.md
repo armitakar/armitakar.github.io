@@ -88,7 +88,7 @@ author_profile: true
           </a>
         </div>
         <div class="person-role">
-          Ph.D Student, Geography and Geoinformation Science (GGS)
+          M.S. Student, Geography and Geoinformation Science (GGS)
         </div>
       </div>
     </div>
@@ -161,6 +161,42 @@ author_profile: true
         </div>
         <div class="person-role">
           Postdoctoral associate, Human Environments Analysis Laboratory (HEAL), Western University
+        </div>
+      </div>
+    </div>
+
+    <div class="person-card">
+      <img src="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/liu2024s.jpg" class="person-img">
+      <div class="person-info">
+        <div class="person-name">
+          <a href="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/index.htm" target="_blank">Luyu Liu</a>
+        </div>
+        <div class="person-role">
+          Assistant Professor, Geosciences, Auburn University
+        </div>
+      </div>
+    </div>
+
+    <div class="person-card">
+      <img src="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/liu2024s.jpg" class="person-img">
+      <div class="person-info">
+        <div class="person-name">
+          <a href="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/index.htm" target="_blank">Luyu Liu</a>
+        </div>
+        <div class="person-role">
+          Assistant Professor, Department of Geosciences, Auburn University
+        </div>
+      </div>
+    </div>
+
+    <div class="person-card">
+      <img src="https://geoenvironment.uwo.ca/img/people/fulltimefaculty/lee_jin.png" class="person-img">
+      <div class="person-info">
+        <div class="person-name">
+          <a href="https://geoenvironment.uwo.ca/people/faculty/full-time-faculty/jinhyung-lee.html" target="_blank">Jinhyung Lee</a>
+        </div>
+        <div class="person-role">
+          Associate Professor, Department of Geography and Environment, Western University
         </div>
       </div>
     </div>
