@@ -172,18 +172,6 @@ author_profile: true
           <a href="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/index.htm" target="_blank">Luyu Liu</a>
         </div>
         <div class="person-role">
-          Assistant Professor, Geosciences, Auburn University
-        </div>
-      </div>
-    </div>
-
-    <div class="person-card">
-      <img src="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/liu2024s.jpg" class="person-img">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/index.htm" target="_blank">Luyu Liu</a>
-        </div>
-        <div class="person-role">
           Assistant Professor, Department of Geosciences, Auburn University
         </div>
       </div>
