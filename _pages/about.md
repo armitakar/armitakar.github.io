@@ -139,6 +139,34 @@ redirect_from:
 <h1 style="font-size: 20;">Recent updates</h1>
 
 <details>
+<summary><b>July 1, 2026</b></summary>
+<p align="justify"> Elected as secretary at the Middle Atlantic Division (MAD) at the Association of American Geographers (AAG)</p>
+</details>
+
+<details>
+<summary><b>June 9, 2026</b></summary>
+<p align="justify"> Awarded a grant by the Center for International Development (CID) at Harvard University (my role: co-PI) on a project titled, "A Spatially Explicit and Reproducible Mobility-Aware Exposure Evaluation Platform (MEEP) for Climate-Vulnerable Cities"</p>
+</details> 
+
+<details>
+<summary><b>June 7-10, 2026</b></summary>
+<p align="justify"> Wrapped up another University Consortium for Geographic Information Science symposium! My master's student, Shirin A. Mahmoudian, presented her research on, "Generative AI for Urban Infrastructure Auditing: A Micro-scale Evaluation of Multimodal Transit Environments," and earned third place in the Student Paper Competition! </p>
+  <p>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQFhEWf6DR7aCw/feedshare-shrink_1280/B56Z7iCSFUGQAM-/0/1781908709972?e=1785369600&v=beta&t=hA9_t9iZQLmBpJxX6Py3UAAqPQodeUbz64FTSULwM78" style="border:0" width="45%">
+  </p>
+</details> 
+
+<details>
+<summary><b>May 13, 2026</b></summary>
+<p align="justify"> Undergraduate students from GGS 366 won COS URC award for a paper titled, "How access and socioeconomic factors impact opioid overdosage: A case study of Washington DC". </p>
+</details>
+
+<details>
+<summary><b>May 4, 2026</b></summary>
+<p align="justify"> Elected as a board member for the Transportation Geography Specialty Group (TGSG) at the Association of American Geographers (AAG) </p>
+</details>
+
+<details>
 <summary><b>March 17-21, 2026</b></summary>
 <p align="justify"> At AAG 2026, I will be participating in a panel, and our research team will present several papers:
   <ul>
