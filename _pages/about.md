@@ -1,4 +1,4 @@
----
+<img width="1297" height="1536" alt="image" src="https://github.com/user-attachments/assets/239a35b7-9ba0-47c3-a9dd-a87261a50653" />---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -138,6 +138,24 @@ redirect_from:
 
 <h1 style="font-size: 20;">Recent updates</h1>
 
+<details>
+<summary><b>March 17-21, 2026</b></summary>
+<p align="justify"> At AAG 2026, I will be participating in a panel, and our research team will present several papers:
+  <ul>
+    <li>𝗣𝗮𝗻𝗲𝗹: 𝗔𝗔𝗚 𝟮𝟬𝟮𝟲 𝗦𝘆𝗺𝗽𝗼𝘀𝗶𝘂𝗺 𝗼𝗻 𝗦𝗽𝗮𝘁𝗶𝗮𝗹 𝗔𝗜 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲: 𝗙𝗿𝗼𝗻𝘁𝗶𝗲𝗿𝘀 𝗮𝗻𝗱 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 — 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗮𝗻𝗱 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝗼𝗳 𝗠𝗼𝗯𝗶𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗦𝗽𝗮𝘁𝗶𝗮𝗹 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆. Participants: Alexander Michels, Luyu Liu, Kyusik Kim, and Armita Kar</li>
+    <li>𝗣𝗮𝗽𝗲𝗿: 𝗜𝗻𝘁𝗲𝗿𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝗯𝗲𝘁𝘄𝗲𝗲𝗻 𝗽𝗲𝗱𝗲𝘀𝘁𝗿𝗶𝗮𝗻 𝘀𝘁𝗿𝗲𝗲𝘁𝘀𝗰𝗮𝗽𝗲, 𝘄𝗮𝗹𝗸𝗶𝗻𝗴 𝗽𝗲𝗿𝗰𝗲𝗽𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝘄𝗶𝗹𝗹𝗶𝗻𝗴𝗻𝗲𝘀𝘀: 𝗔𝗻 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝘂𝘀𝗶𝗻𝗴 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗮𝗹 𝗘𝗾𝘂𝗮𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 (𝗦𝗘𝗠) 𝗮𝗻𝗱 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝗔𝗜. Presenter: YIFEI WANG</li>
+    <li>𝗣𝗮𝗽𝗲𝗿: 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹 𝗮𝗻𝗱 𝗕𝗶𝗮𝘀 𝗼𝗳 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗶𝗻 𝗔𝘀𝘀𝗲𝘀𝘀𝗶𝗻𝗴 𝗣𝗲𝗱𝗲𝘀𝘁𝗿𝗶𝗮𝗻 𝗦𝗮𝗳𝗲𝘁𝘆 𝗣𝗲𝗿𝗰𝗲𝗽𝘁𝗶𝗼𝗻𝘀. Presenter: Xi Guan</li>
+    <li>𝗣𝗮𝗽𝗲𝗿: 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗗𝗲𝘀𝗲𝗿𝘁𝘀 𝗶𝗻 𝗩𝗶𝗿𝗴𝗶𝗻𝗶𝗮: 𝗥𝘂𝗿𝗮𝗹-𝗨𝗿𝗯𝗮𝗻 𝗮𝗻𝗱 𝗦𝗼𝗰𝗶𝗼𝗲𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝗶𝗲𝘀 𝗶𝗻 𝗔𝗰𝗰𝗲𝘀𝘀 𝘁𝗼 𝗖𝗮𝗿𝗲. Presenter: Armita Kar</li>
+    <li>𝗣𝗮𝗽𝗲𝗿: 𝗧𝗵𝗲𝗿𝗺𝗮𝗹 𝗖𝗼𝗺𝗳𝗼𝗿𝘁 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆: 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗜𝗺𝗽𝗮𝗰𝘁𝘀 𝗼𝗳 𝗨𝗿𝗯𝗮𝗻 𝗛𝗲𝗮𝘁 𝗶𝗻𝘁𝗼 𝗦𝗽𝗮𝗰𝗲-𝗧𝗶𝗺𝗲 𝗣𝗿𝗶𝘀𝗺𝘀 𝘂𝗻𝗱𝗲𝗿 𝗖𝗹𝗶𝗺𝗮𝘁𝗲 𝗖𝗵𝗮𝗻𝗴𝗲. Presenter: Naser Ahmed</li>
+  </ul>
+</p>
+  <p>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGAqec8ctaukA/feedshare-image-high-res/B56Z0YRnfwKcAU-/0/1774228765031?e=1785369600&v=beta&t=eyGlA97bEkKXQLXyP8bkVwM-QuNAAJvRYXdUD5nLIxo" style="border:0" width="45%">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGo699XpOnSMg/feedshare-image-high-res/B56Z0YRnhkJMAU-/0/1774228765301?e=1785369600&v=beta&t=htWPxHtwYSY_fj7p0SkdzjLO6GFvs2Dlp39S0HJO7XY" style="border:0" width="45%">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQE6w-pm_SaA5Q/feedshare-image-high-res/B56Z0YRnkMJwAU-/0/1774228765471?e=1785369600&v=beta&t=-0EEuExJNabdQOScTHNJvigYMq8N2UUrDIP4gglQPiI" style="border:0" width="45%">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGQOJ4y992EpA/feedshare-image-high-res/B56Z0YRnhpJgAU-/0/1774228765160?e=1785369600&v=beta&t=plze30sNjmnXJwK9vQgp3YYAVJAsKr7gwctCwuCs6A4" style="border:0" width="45%">
+  </p>
+</details>
 
 <details>
 <summary><b>February 19-22, 2026</b></summary>
