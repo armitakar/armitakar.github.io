@@ -1,0 +1,122 @@
+# "Recent updates" timeline shown on the About page.
+# To add a new update: copy a block below, put the newest one FIRST.
+# `body` can contain plain text or HTML (links, lists, images).
+# `images` is optional -- a list of image URLs shown under the body.
+
+- date: "July 1, 2026"
+  body: >-
+    Elected as secretary at the Middle Atlantic Division (MAD) at the
+    Association of American Geographers (AAG)
+
+- date: "June 9, 2026"
+  body: >-
+    Awarded a grant by the Center for International Development (CID) at
+    Harvard University (my role: co-PI) on a project titled, "A Spatially
+    Explicit and Reproducible Mobility-Aware Exposure Evaluation Platform
+    (MEEP) for Climate-Vulnerable Cities"
+
+- date: "June 7-10, 2026"
+  body: >-
+    Wrapped up another University Consortium for Geographic Information
+    Science symposium! My master's student, Shirin A. Mahmoudian, presented
+    her research on, "Generative AI for Urban Infrastructure Auditing: A
+    Micro-scale Evaluation of Multimodal Transit Environments," and earned
+    third place in the Student Paper Competition!
+  images:
+    - "https://media.licdn.com/dms/image/v2/D5622AQFhEWf6DR7aCw/feedshare-shrink_1280/B56Z7iCSFUGQAM-/0/1781908709972?e=1785369600&v=beta&t=hA9_t9iZQLmBpJxX6Py3UAAqPQodeUbz64FTSULwM78"
+
+- date: "May 13, 2026"
+  body: >-
+    Undergraduate students from GGS 366 won COS URC award for a paper
+    titled, "How access and socioeconomic factors impact opioid overdosage:
+    A case study of Washington DC".
+
+- date: "May 4, 2026"
+  body: >-
+    Elected as a board member for the Transportation Geography Specialty
+    Group (TGSG) at the Association of American Geographers (AAG)
+
+- date: "March 17-21, 2026"
+  body: |-
+    At AAG 2026, I will be participating in a panel, and our research team will present several papers:
+    <ul>
+      <li><b>Panel:</b> AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications — Challenges and Opportunities of Mobility and Spatial Accessibility. Participants: Alexander Michels, Luyu Liu, Kyusik Kim, and Armita Kar</li>
+      <li><b>Paper:</b> Interrelationship between pedestrian streetscape, walking perceptions, and willingness: An analysis using Structural Equation Modeling (SEM) and Explainable AI. Presenter: Yifei Wang</li>
+      <li><b>Paper:</b> Exploring the Potential and Bias of Generative AI in Assessing Pedestrian Safety Perceptions. Presenter: Xi Guan</li>
+      <li><b>Paper:</b> Healthcare Deserts in Virginia: Rural-Urban and Socioeconomic Disparities in Access to Care. Presenter: Armita Kar</li>
+      <li><b>Paper:</b> Thermal Comfort Accessibility: Integrating the Impacts of Urban Heat into Space-Time Prisms under Climate Change. Presenter: Naser Ahmed</li>
+    </ul>
+  images:
+    - "https://media.licdn.com/dms/image/v2/D5622AQGAqec8ctaukA/feedshare-image-high-res/B56Z0YRnfwKcAU-/0/1774228765031?e=1785369600&v=beta&t=eyGlA97bEkKXQLXyP8bkVwM-QuNAAJvRYXdUD5nLIxo"
+    - "https://media.licdn.com/dms/image/v2/D5622AQGo699XpOnSMg/feedshare-image-high-res/B56Z0YRnhkJMAU-/0/1774228765301?e=1785369600&v=beta&t=htWPxHtwYSY_fj7p0SkdzjLO6GFvs2Dlp39S0HJO7XY"
+    - "https://media.licdn.com/dms/image/v2/D5622AQE6w-pm_SaA5Q/feedshare-image-high-res/B56Z0YRnkMJwAU-/0/1774228765471?e=1785369600&v=beta&t=-0EEuExJNabdQOScTHNJvigYMq8N2UUrDIP4gglQPiI"
+    - "https://media.licdn.com/dms/image/v2/D5622AQGQOJ4y992EpA/feedshare-image-high-res/B56Z0YRnhpJgAU-/0/1774228765160?e=1785369600&v=beta&t=plze30sNjmnXJwK9vQgp3YYAVJAsKr7gwctCwuCs6A4"
+
+- date: "February 19-22, 2026"
+  body: >-
+    Anastasia Soukhov presenting our work on "Exploring Determinants of
+    Prenatal Care Travel", a transport-focused analysis of non-explicit
+    transportation data: medical electronic records covering every birth
+    (and associated prenatal care) in the state of Florida, at the Spatial
+    Knowledge and Information Conference (SKI) 2026.
+  images:
+    - "/images/ski2026.jpeg"
+
+- date: "January 11-15, 2026"
+  body: |-
+    Attending the Transportation Research Board Annual Meeting 2026. Please join us in our lecture session on <b>"Healthcare Deserts in Virginia: Rural–Urban and Socioeconomic Disparities in Access to Care"</b>, led by undergraduate and high school students Sarah Zak and Stepan Mkrtchian, and a poster session on <b>"Interrelationship Between Pedestrian Streetscape, Walking Perceptions, and Willingness: An Analysis Using Structural Equation Modeling (SEM) and Explainable AI"</b> led by PhD student, Yifei Wang.
+  images:
+    - "/images/trb2026.jpeg"
+    - "/images/trb2026_1.jpeg"
+
+- date: "October 20, 2025"
+  body: >-
+    Presenting on 'Exploring Human Mobility Experiences: Role of Artificial
+    Intelligence and Multisensory Data in Human-Centered Transportation
+    Planning' at GMU Department of Civil, Environmental, and Infrastructure
+    Engineering. Thanks to GMU CEIE faculty and students for the invite. I
+    truly enjoyed sharing my work and engaging in such thoughtful
+    discussions.
+  images:
+    - "/images/ceie2025.jpeg"
+
+- date: "August 07, 2025"
+  body: |-
+    This summer, I had the opportunity to mentor 5 high-school and one undergraduate student through the GMU Aspiring Scientists Summer Internship Program (ASSIP). Just within six weeks, these students successfully completed the following projects, including data collection, processing, modeling, and preparing the final presentation for each:
+    <ul>
+      <li>Healthcare Deserts in Virginia: Rural-Urban and Socioeconomic Disparities in Access to Care (Sarah Zak and Stepan Mkrtchian)</li>
+      <li>How Do Women Access Maternal Care? Spatial and Social Dimensions of Maternal Healthcare Visits in Florida (Ava Hudson and Justin Yu)</li>
+      <li>Developing a Fairfax Topographic Accessibility Map (Kevin Hasani)</li>
+      <li>Crime Around Public Transit: Analyzing Spatio-Temporal Variations in Crime Rates Near D.C. Bus Stops (Monisha Preetham)</li>
+    </ul>
+  images:
+    - "/images/ASSIP2025_1.jpeg"
+    - "/images/ASSIP2025_2.jpeg"
+
+- date: "June 25, 2025"
+  body: >-
+    On behalf of GISphere, hosting a workshop on <a
+    href="https://ucgissymposium2025.sched.com/event/23I91/from-student-to-gis-pro-gis-career-readiness-workshop"><b>From
+    Student to GIS Pro: GIS Career Readiness workshop</b></a> at UCGIS
+    symposium 2025. Join us to discuss strategies for building your
+    professional network, investing in your professional development, and
+    navigating the exciting world of GIS careers.
+
+- date: "April 18, 2025"
+  body: >-
+    Gave a talk on <b>"Exploring Human Perceptions for Safe, Sustainable,
+    and Healthy Transportation Planning"</b> at Virginia Tech, Department
+    of Geography
+
+- date: "Mar 24, 2025"
+  body: >-
+    Co-Organizing a session with Drs. Luyu Liu, Jinhyung Lee, and Huyen Le
+    on <b>"Transportation and Environmental Exposure"</b> at the American
+    Association of Geographers 2025.
+
+- date: "Jan 05, 2025"
+  body: |-
+    Attending the Transportation Research Board (TRB) Annual Meeting 2025! Join me for my poster session on <b>January 6 at 10:15 AM in CC Hall A</b>. I will be presenting on <i>Spatial Heterogeneities in Healthcare Visits and their Socio-economic Determinants: A Comprehensive Analysis Using Traffic Flow Data</i>.
+    <p>Here's a quick peek at my poster. Looking forward to insightful discussions!</p>
+  images:
+    - "/images/TRB_poster_2025.jpg"

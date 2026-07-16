@@ -1,0 +1,40 @@
+# Research team shown on /research_team/
+# Add a new person under the right section's `members:` list.
+# `image` and `url` are optional -- omit either and the card still works.
+
+- section: Graduate Students
+  members:
+  - name: Yifei Wang
+    role: Ph.D Student, Geography and Geoinformation Science (GGS)
+    image: /images/Yifei_Wang.jpeg
+    url: https://www.linkedin.com/in/yifei-wang-b8324b375/
+  - name: Shirin A. Mahmoudian
+    role: M.S. Student, Geography and Geoinformation Science (GGS)
+    image: /images/Shirin.jpeg
+    url: https://www.linkedin.com/in/shirin-a-mahmoudian-75aa782a3/
+- section: Undergraduate and High School Students
+  members:
+  - name: Sarah Zak
+    role: Health Informatics, George Mason University
+    url: https://www.linkedin.com/in/sarah-zak-4400772a9/
+  - name: Stepan Mkrtchian
+    role: Mechanical Engineering, Carnegie Mellon University
+    url: https://www.linkedin.com/in/stepan-mkrtchian-ba2142341/
+  - name: Ava Hudson
+    role: New Trier Township High School
+  - name: Justin Yu
+    role: Westwood High School
+- section: Collaborators
+  members:
+  - name: Anastasia Soukhov
+    role: Postdoctoral associate, Human Environments Analysis Laboratory (HEAL), Western University
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTPX_5pvTY4eM6zD8DMsGGgkgoXQOl0u0rYuW5NAcVFT_5DCkr7y9ZPf6-ya8O1B9qtRG&s
+    url: https://theheal.ca/team/anastasia-soukhov/
+  - name: Luyu Liu
+    role: Assistant Professor, Department of Geosciences, Auburn University
+    image: https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/liu2024s.jpg
+    url: https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/index.htm
+  - name: Jinhyung Lee
+    role: Associate Professor, Department of Geography and Environment, Western University
+    image: https://geoenvironment.uwo.ca/img/people/fulltimefaculty/lee_jin.png
+    url: https://geoenvironment.uwo.ca/people/faculty/full-time-faculty/jinhyung-lee.html

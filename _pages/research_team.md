@@ -5,189 +5,32 @@ permalink: /research_team/
 author_profile: true
 ---
 
-<style>
-.people-section {
-  margin-top: 30px;
-}
+{% for group in site.data.research_team %}
+<div class="kar-people-section">
+  <h2>{{ group.section }}</h2>
 
-.people-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 20px;
-}
-
-.person-card {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  padding: 14px;
-  border: 1px solid #eee;
-  border-radius: 12px;
-  background: #fff;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.person-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
-}
-
-.person-img {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.person-info {
-  flex: 1;
-}
-
-.person-name a {
-  text-decoration: none;
-  color: inherit;
-  font-weight: 600;
-}
-
-.person-name a:hover {
-  text-decoration: underline;
-}
-
-.person-role {
-  font-size: 13px;
-  color: #777;
-}
-</style>
-
-<div class="people-section">
-  <h2>Graduate Students</h2>
-
-  <div class="people-grid">
-
-    <div class="person-card">
-      <img src="/images/Yifei_Wang.jpeg" class="person-img">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://www.linkedin.com/in/yifei-wang-b8324b375/" target="_blank">
-            Yifei Wang
-          </a>
+  <div class="kar-people-grid">
+    {% for person in group.members %}
+    <div class="kar-person-card">
+      {% if person.image %}
+      <img src="{{ person.image }}" class="kar-person-card__img">
+      {% else %}
+      <div class="kar-person-card__img kar-person-card__img--placeholder">{{ person.name | slice: 0 }}</div>
+      {% endif %}
+      <div class="kar-person-card__info">
+        <div class="kar-person-card__name">
+          {% if person.url %}
+          <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+          {% else %}
+          {{ person.name }}
+          {% endif %}
         </div>
-        <div class="person-role">
-          Ph.D Student, Geography and Geoinformation Science (GGS)
+        <div class="kar-person-card__role">
+          {{ person.role }}
         </div>
       </div>
     </div>
-
-    <div class="person-card">
-      <img src="/images/Shirin.jpeg" class="person-img">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://www.linkedin.com/in/shirin-a-mahmoudian-75aa782a3/" target="_blank">
-            Shirin A. Mahmoudian
-          </a>
-        </div>
-        <div class="person-role">
-          M.S. Student, Geography and Geoinformation Science (GGS)
-        </div>
-      </div>
-    </div>
-
+    {% endfor %}
   </div>
 </div>
-
-<div class="people-section">
-  <h2>Undergraduate and High School Students</h2>
-
-  <div class="people-grid">
-
-    <div class="person-card">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://www.linkedin.com/in/sarah-zak-4400772a9/" target="_blank">
-            Sarah Zak
-          </a>
-        </div>
-        <div class="person-role">
-          Health Informatics, George Mason University
-        </div>
-      </div>
-    </div>
-
-    <div class="person-card">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://www.linkedin.com/in/stepan-mkrtchian-ba2142341/" target="_blank">
-            Stepan Mkrtchian
-          </a>
-        </div>
-        <div class="person-role">
-          Mechanical Engineering, Carnegie Mellon University
-        </div>
-      </div>
-    </div>
-
-    <div class="person-card">
-      <div class="person-info">
-        <div class="person-name">Ava Hudson</div>
-        <div class="person-role">
-          New Trier Township High School
-        </div>
-      </div>
-    </div>
-
-    <div class="person-card">
-      <div class="person-info">
-        <div class="person-name">Justin Yu</div>
-        <div class="person-role">
-          Westwood High School
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<div class="people-section">
-  <h2>Collaborators</h2>
-
-  <div class="people-grid">
-
-    <div class="person-card">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTPX_5pvTY4eM6zD8DMsGGgkgoXQOl0u0rYuW5NAcVFT_5DCkr7y9ZPf6-ya8O1B9qtRG&s" class="person-img">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://theheal.ca/team/anastasia-soukhov/" target="_blank">Anastasia Soukhov</a>
-        </div>
-        <div class="person-role">
-          Postdoctoral associate, Human Environments Analysis Laboratory (HEAL), Western University
-        </div>
-      </div>
-    </div>
-
-    <div class="person-card">
-      <img src="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/liu2024s.jpg" class="person-img">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://www.auburn.edu/cosam/departments/geosciences/geosciences-faculty/liu/index.htm" target="_blank">Luyu Liu</a>
-        </div>
-        <div class="person-role">
-          Assistant Professor, Department of Geosciences, Auburn University
-        </div>
-      </div>
-    </div>
-
-    <div class="person-card">
-      <img src="https://geoenvironment.uwo.ca/img/people/fulltimefaculty/lee_jin.png" class="person-img">
-      <div class="person-info">
-        <div class="person-name">
-          <a href="https://geoenvironment.uwo.ca/people/faculty/full-time-faculty/jinhyung-lee.html" target="_blank">Jinhyung Lee</a>
-        </div>
-        <div class="person-role">
-          Associate Professor, Department of Geography and Environment, Western University
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div>
+{% endfor %}

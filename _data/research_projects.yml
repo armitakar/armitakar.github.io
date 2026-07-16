@@ -1,0 +1,30 @@
+# Research projects shown on /research/
+# To add a new project, copy one block below and edit the fields.
+# - images: list of one or more image paths/URLs (shown side by side)
+# - link: '#' if there's nothing to link to yet
+
+- title: Interrelationship between pedestrian streetscape, perceptions, and willingness
+  description: This research quantifies micro-level pedestrian streetscape features using Vision Language models and examines both mediation pathways and predictive relationships among pedestrian streetscape, safety perceptions, and walking willingness using SEM, GPBoost, and SHAP analysis. Findings highlight the importance of features such as curb ramps, traffic controls, and green spaces in shaping perceived safety, which in turn drives people’s willingness to walk — offering actionable insights for encouraging walking behavior.
+  link: '#'
+  images:
+  - /images/TRB_Poster_2026.jpg
+  caption: Poster presented at TRB 2026
+- title: Healthcare Deserts in Virginia
+  description: This study examines how healthcare deserts and their rural–urban and socioeconomic drivers vary across spatiotemporal scales and healthcare provider types. Using the state of Virginia as a case study, the work emphasizes the need for high-resolution spatial analysis to accurately locate healthcare disadvantaged areas.
+  link: '#'
+  images:
+  - /images/gmu-healthcare-deserts-trb.jpg
+  caption: County vs. tract-level healthcare desert patterns
+- title: Determinants of Prenatal Care Travel
+  description: Proximity enables interaction, but what else influences where people go? Using 19.8 million prenatal trips to maternal healthcare facilities across Florida (2016-2022), constructed from patient hospital electronic visitation records, we examine how spatial, socioeconomic, and facility characteristics influence travel. We estimate a negative binomial model of trip counts incorporating origin-, destination- and flow-based predictors. While distance remains a dominant deterrent, its influence is conditioned by rurality, facility capacity, and community health context. These patterns underscore that prenatal maternal travel reflects broader contextual factors beyond geographic distance.
+  link: '#'
+  images:
+  - /images/Florida_OD_flow_map.jpg
+  caption: Prenatal OD flows in Florida
+- title: Inclusive Accessibility
+  description: My doctoral dissertation focuses on pioneering a novel concept and measure known as inclusive accessibility. This approach integrates people’s diverse travel choices and experiences into advancing space-time accessibility models. I posit this measure as a more realistic and socially aware representation of accessibility, as it distinguishes between the geographic spaces that are physically and perceptually accessible to individuals and social groups. My dissertation also demonstrates how inclusive accessibility can guide transportation interventions for marginalized communities.
+  link: '#'
+  images:
+  - /images/walking-impedance.png
+  - /images/inclusive-access.png
+  caption: Spatio-social variations in walking perceptions and their influence on inclusive access

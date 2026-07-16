@@ -1,0 +1,306 @@
+/* ==========================================================================
+   Custom site components
+   (About "research questions" cards, Research "project" cards,
+   Research Team "person" cards)
+
+   One shared visual language: consistent radius, shadow, spacing, and
+   hover behavior, with three accent colors used across sections.
+   ========================================================================== */
+
+/* ==========================================================================
+   Site-wide modernization
+   (masthead, sidebar/avatar, and typography polish)
+   ========================================================================== */
+
+/* Shared accent palette -- reuse across all custom components */
+$accent-blue    : #3f7fd1;
+$accent-green   : #2fa365;
+$accent-orange  : #e08e1d;
+
+$accent-blue-bg   : #f2f7fd;
+$accent-green-bg  : #f1faf5;
+$accent-orange-bg : #fdf5ec;
+
+$card-radius      : 12px;
+$card-shadow      : 0 2px 8px rgba(0, 0, 0, 0.06);
+$card-shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.09);
+$card-border      : 1px solid #ececec;
+$card-transition  : transform 0.18s ease, box-shadow 0.18s ease;
+
+/* Masthead: sticky, subtle blur, more breathing room */
+.masthead {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(180%) blur(8px);
+  -webkit-backdrop-filter: saturate(180%) blur(8px);
+  border-bottom: 1px solid #ececec;
+
+  &__inner-wrap {
+    padding: 1.1em 1em;
+  }
+}
+
+.masthead__menu-item--lg a {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #1d1d1f !important;
+}
+
+.masthead__menu-item a {
+  position: relative;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $accent-blue !important;
+  }
+}
+
+.masthead__menu-item:not(.masthead__menu-item--lg) a {
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 0;
+    height: 2px;
+    background: $accent-blue;
+    transition: width 0.18s ease;
+  }
+
+  &:hover::after {
+    width: 100%;
+  }
+}
+
+/* Author sidebar / avatar */
+.author__avatar img {
+  border: 3px solid #fff !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+.author__name {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.author__urls-wrapper button {
+  border-radius: $border-radius;
+}
+
+/* Body typography polish */
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.01em;
+}
+
+p, li {
+  line-height: 1.7;
+}
+
+a {
+  color: $accent-blue;
+}
+
+::selection {
+  background: rgba(63, 127, 209, 0.18);
+}
+
+.kar-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.kar-intro {
+  text-align: justify;
+  margin-bottom: 1.5em;
+}
+
+.kar-section-title {
+  font-size: 1.25em;
+  font-weight: 600;
+  margin: 1.75em 0 1em;
+}
+
+/* ---- About page: research-question cards ---- */
+.kar-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.1em;
+  border-radius: $card-radius;
+  padding: 1.1em 1.25em;
+  margin-bottom: 1.1em;
+  box-shadow: $card-shadow;
+  transition: $card-transition;
+  border-left: 4px solid;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $card-shadow-hover;
+  }
+
+  &--blue   { background: $accent-blue-bg;   border-color: $accent-blue; }
+  &--green  { background: $accent-green-bg;  border-color: $accent-green; }
+  &--orange { background: $accent-orange-bg; border-color: $accent-orange; }
+}
+
+.kar-card__icon {
+  flex: 0 0 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+
+  img {
+    width: 44px;
+    height: 44px;
+    object-fit: contain;
+  }
+}
+
+.kar-card__text {
+  flex: 1;
+  text-align: justify;
+
+  b { font-size: 1.02em; }
+}
+
+.kar-footer-text {
+  margin-top: 1.75em;
+  text-align: justify;
+}
+
+/* ---- Research page: project cards ---- */
+.kar-project-link {
+  text-decoration: none;
+  color: inherit;
+
+  &:hover { text-decoration: underline; }
+}
+
+.kar-project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5em;
+  margin-bottom: 2em;
+}
+
+.kar-project-card {
+  border: $card-border;
+  border-radius: $card-radius;
+  padding: 1.1em;
+  background: #fff;
+  box-shadow: $card-shadow;
+  transition: $card-transition;
+  height: 100%;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: $card-shadow-hover;
+  }
+}
+
+.kar-project-card__title {
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+.kar-project-card__desc {
+  font-size: 0.9em;
+  color: #4a4a4a;
+  text-align: justify;
+}
+
+.kar-project-card__img {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 0.75em;
+  transition: opacity 0.18s ease;
+
+  &:hover { opacity: 0.9; cursor: pointer; }
+}
+
+.kar-project-card__caption {
+  font-size: 0.75em;
+  color: #808080;
+  text-align: center;
+  margin-top: 0.4em;
+}
+
+/* ---- Research Team page: person cards ---- */
+.kar-people-section {
+  margin-top: 1.75em;
+}
+
+.kar-people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.1em;
+}
+
+.kar-person-card {
+  display: flex;
+  align-items: center;
+  gap: 0.9em;
+  padding: 0.85em;
+  border: $card-border;
+  border-radius: $card-radius;
+  background: #fff;
+  box-shadow: $card-shadow;
+  transition: $card-transition;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $card-shadow-hover;
+  }
+}
+
+.kar-person-card__info {
+  flex: 1;
+}
+
+.kar-person-card__img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+
+  &--placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $accent-blue-bg;
+    color: $accent-blue;
+    font-weight: 700;
+    font-size: 1.2em;
+    text-transform: uppercase;
+  }
+}
+
+.kar-person-card__name a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+
+  &:hover { text-decoration: underline; }
+}
+
+.kar-person-card__role {
+  font-size: 0.8em;
+  color: #808080;
+}
+
+/* ---- Recent updates (About page <details> list) ---- */
+details {
+  margin-bottom: 0.9em;
+  padding: 0.15em 0;
+
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+}
